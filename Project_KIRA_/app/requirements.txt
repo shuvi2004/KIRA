@@ -1,0 +1,7 @@
+Flask>=2.2.5
+langchain>=0.0.148
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+ollama>=0.0.2
+langchain-community

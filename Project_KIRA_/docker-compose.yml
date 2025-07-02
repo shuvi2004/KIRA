@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  main_app:
+    build: .
+    container_name: project_kira_main_app
+    image: project_kira_main_app
+    ports:
+      - "5000:5000"
+    depends_on:
+      mongo:
+        condition: service_healthy  # Ensure MongoDB is fully ready
+      secondary_app:
+        condition: service_started
+    volumes:
+      - .:/app
+
+  secondary_app:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    container_name: project_kira_secondary_app
+    image: project_kira_secondary_app
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mongo
+    volumes:
+      - ./app:/app
+
+  mongo:
+    image: mongo
+    container_name: project_kira_mongo
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_DATABASE=kira  # Initializing database name as "kira"
+    volumes:
+      - mongo-data:/data/db
+      - ./database/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js  # Ensure initialization script runs
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh --quiet mongodb://localhost:27017/kira
+      interval: 10s
+      retries: 5
+      start_period: 5s
+
+volumes:
+  mongo-data:

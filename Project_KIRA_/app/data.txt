@@ -1,0 +1,2263 @@
+
+    
+     "What makes KIIT a top-ranked university in India?",
+      "output": "KIIT is recognized for its academic innovation, global diversity, and multiple international accreditations, including ABET, NAAC A++, and Washington Accord."
+    
+    
+     "What is KIITEE 2025?",
+      "output": "KIITEE 2025 is the entrance examination for admission into various undergraduate and postgraduate programs at KIIT."
+    
+    
+     "Does KIIT charge an application fee for admission?",
+      "output": "No, KIIT does not charge an application fee for admission."
+    
+    
+     "When will SPRING END SEMESTER EXAMINATION COMMENCE?",
+      "output": "SPRING END SEMESTER EXAMINATION WILL COMMENCE FROM 12th April, 2025 and end on 22nd April, 2025."
+    
+    
+     "What are some of the accreditations that KIIT holds?",
+      "output": "KIIT holds accreditations such as NAAC A++, ABET (USA), IET (UK), and Tier 1 accreditation under the Washington Accord."
+    
+    
+     "How many countries are represented in KIIT’s student body?",
+      "output": "KIIT is home to students from over 65 countries."
+    
+    
+     "What academic levels does KIIT offer programs in?",
+      "output": "KIIT offers undergraduate, postgraduate, and doctoral programs."
+    
+    
+     "Who is the founder of KIIT?",
+      "output": "KIIT was founded by Prof. Achyuta Samanta."
+    
+    
+     "What is the KIIT School of Liberal Studies known for?",
+      "output": "The KIIT School of Liberal Studies focuses on experiential learning, interdisciplinary perspectives, and preparing students for diverse workforce sectors."
+    
+    
+     "How does KIIT contribute to sustainability?",
+      "output": "KIIT promotes sustainability through renewable energy, waste-to-biogas conversion, and zero-emission transport."
+    
+    
+     "What is KIIT’s special status with the United Nations?",
+      "output": "KIIT has Special Consultative Status with the UN ECOSOC and partners with UN Volunteers to offer students opportunities in international development."
+    
+    
+     "What entrance exam scores does KIIT accept for MBA admissions?",
+      "output": "KIIT accepts CAT, MAT, XAT, and CMAT scores for MBA admissions."
+    
+    
+     "What global partnerships does KIIT have?",
+      "output": "KIIT collaborates with international institutions and organizations, including UN Volunteers, to provide global exposure to students."
+    
+    
+     "What is the ‘Global Footprint’ of KIIT?",
+      "output": "KIIT has international collaborations, global accreditations, and a diverse student base from over 65 countries."
+    
+    
+     "What are the research opportunities at KIIT?",
+      "output": "KIIT offers extensive research opportunities through its dedicated research centers, faculty, and funded projects in various disciplines."
+    
+    
+     "What ranking does KIIT hold in India?",
+      "output": "KIIT is consistently ranked among the top universities in India for academic excellence and innovation."
+    
+    
+     "What scholarships does KIIT offer?",
+      "output": "KIIT provides various scholarships and fellowships to meritorious and financially disadvantaged students."
+    
+    
+     "What programs are available for international students at KIIT?",
+      "output": "KIIT offers a range of undergraduate, postgraduate, and doctoral programs tailored for international students."
+    
+    
+     "How does KIIT support placements for students?",
+      "output": "KIIT has a dedicated placement cell that collaborates with top recruiters to provide career opportunities for students."
+    
+    
+     "What facilities are available for students at KIIT?",
+      "output": "KIIT offers world-class infrastructure, including libraries, sports complexes, research labs, and hostels for students."
+    
+    
+     "What makes KIIT unique among Indian universities?",
+      "output": "KIIT stands out due to its international accreditations, diverse student community, sustainability initiatives, and strong industry connections."
+    
+    
+     "What certification courses does KIIT offer in collaboration with Harvard Business School Online?",
+      "output": "KIIT offers high-impact online certification courses in collaboration with Harvard Business School Online."
+    
+    
+     "What online degree programs are available at KIIT?",
+      "output": "KIIT offers self-paced flexible online courses including MBA, MCA, BBA, B.Com, M.Com, and MA."
+    
+    
+     "What is the BUILD Programme by Boeing at KIIT?",
+      "output": "The BUILD Programme is Boeing’s University Innovation Leadership Programme in partnership with KIIT TBI."
+    
+    
+     "Which industry leaders have collaborated with KIIT for advanced industry-ready courses?",
+      "output": "KIIT has partnered with L&T EduTech, Ericsson, and KPIT to offer industry-ready courses in AI, Cyber Security, and Digital Manufacturing."
+    
+    
+     "What is KIIT’s rank in the Atal Ranking of Institutions on Innovation Achievements?",
+      "output": "KIIT has been ranked No. 1 in the Atal Ranking of Institutions on Innovation Achievements for the second consecutive time."
+    
+    
+     "What is KIIT’s position in the Times Higher Education World University Rankings 2024?",
+      "output": "KIIT is ranked between 601-800 in the Times Higher Education World University Rankings 2024."
+    
+    
+     "Where does KIIT stand in the Times Higher Education Young University Ranking 2024?",
+      "output": "KIIT is ranked 168th globally and 10th among Indian universities in the Times Higher Education Young University Ranking 2024."
+    
+    
+     "How has KIIT been rated in the QS World University Rankings?",
+      "output": "KIIT is India’s first QS 5 Stars Rated University (2021) and holds a rank of 257 in the QS World University Rankings: Asia 2025."
+    
+    
+     "What is the QS ranking of KIIT in Southern Asia?",
+      "output": "KIIT is ranked 90th in the QS Asian University Rankings for Southern Asia in 2024."
+    
+    
+     "What is KIIT’s rank in the QS World University Rankings for Environmental Sustainability 2024?",
+      "output": "KIIT is ranked 81st in the QS World University Rankings for Environmental Sustainability 2024."
+    
+    
+     "What was the focus of the 20th National Phono Surgeon Conference hosted by KIIT?",
+      "output": "The 20th National Phono Surgeon Conference focused on advancements in voice and speech-related medical research and treatments."
+    
+    
+     "What was discussed at the KIIT TBI-hosted BRICS Youth Council Entrepreneurship Pre-Consultation?",
+      "output": "The event focused on empowering young innovators through entrepreneurship discussions and global collaborations."
+    
+    
+     "What international conference on tribal knowledge is KIIT hosting in February 2025?",
+      "output": "KIIT is hosting a two-day International Conference on ‘Utilization of Indigenous Knowledge of Particularly Vulnerable Tribal Groups for an Inclusive Viksit Bharat’ on February 13-14, 2025."
+    
+    
+     "What is the placement success rate of KIIT graduates?",
+      "output": "KIIT has a 92% placement rate for recent graduates securing new jobs."
+    
+    
+     "How many academic programs does KIIT offer?",
+      "output": "KIIT offers over 200 academic programs across various disciplines."
+    
+    
+     "How many research publications has KIIT produced in Scopus?",
+      "output": "KIIT has over 13,636 research publications indexed in Scopus."
+    
+    
+     "How many patents has KIIT filed?",
+      "output": "KIIT has filed over 810 national and international patents."
+    
+    
+     "What is the highest salary package offered in KIIT placements?",
+      "output": "The highest salary package offered in KIIT placements is Rs. 63 Lakhs per annum."
+    
+    
+     "What is the average salary package for KIIT placements?",
+      "output": "The average salary package for KIIT placements is Rs. 8 Lakhs per annum."
+    
+    
+     "How many companies recruit from KIIT?",
+      "output": "Over 450 top companies participate in KIIT’s placement drives, offering more than 5200 job opportunities."
+    
+    
+     "What role does research play at KIIT?",
+      "output": "At KIIT, cutting-edge research drives innovation and excellence across diverse fields through state-of-the-art laboratories and collaborative research centers."
+    
+    
+     "What facilities are available in KIIT’s state-of-the-art laboratories?",
+      "output": "KIIT’s laboratories are equipped with advanced technology and modern infrastructure, providing hands-on experience and bridging the gap between theory and real-world applications."
+    
+    
+     "What are some specialized laboratories at KIIT?",
+      "output": "Some specialized laboratories at KIIT include the Hydraulic Machines Laboratory, Internal Combustion Engine Laboratory, Machine Kinematics and Dynamics Laboratory, and AeroStructures Laboratory."
+    
+    
+     "What is the purpose of KIIT’s Thin Film Photovoltaic Lab?",
+      "output": "The Thin Film Photovoltaic Lab at KIIT focuses on research and development in solar energy technology, contributing to advancements in renewable energy solutions."
+    
+    
+     "How does KIIT ensure students are industry-ready?",
+      "output": "KIIT’s dedicated Training and Placement Cell partners with top recruiters, provides career support, and offers hands-on training to ensure students are industry-ready."
+    
+    
+     "What is the role of the Training and Placement Cell at KIIT?",
+      "output": "The Training and Placement Cell at KIIT works to connect students with leading global companies and provides mentorship, skill development, and career guidance."
+    
+    
+     "How does KIIT support students in their career growth?",
+      "output": "KIIT empowers students with career guidance, mentorship, training, and connections with global recruiters to ensure academic and professional success."
+    
+    
+     "How does KIIT assist international students?",
+      "output": "KIIT provides international students with scholarships, student support services, mentorship, and academic programs aligned with global standards."
+    
+    
+     "How many global universities has KIIT collaborated with?",
+      "output": "KIIT has collaborated with over 140 renowned global universities and is a member of prestigious international educational bodies."
+    
+    
+     "What opportunities does KIIT provide for international students?",
+      "output": "KIIT offers international students a global community, cultural diversity, scholarships, academic support, and collaborations with top universities worldwide."
+    
+    
+     "What is the KIIT-UN Volunteers partnership?",
+      "output": "KIIT partners with UN Volunteers to offer students opportunities to work on real-world projects with UN Agencies, gaining hands-on experience and making a global impact."
+    
+    
+     "How does KIIT’s UN Volunteer program benefit students?",
+      "output": "The program provides students with global exposure, career growth opportunities, and the chance to contribute to real-world solutions addressing critical development challenges."
+    
+    
+     "What kind of projects can KIIT students work on as UN Volunteers?",
+      "output": "KIIT students can engage in sustainable development, advocacy, innovation, and community impact projects while working with UN Agencies."
+    
+    
+     "How does KIIT support students in making a global impact?",
+      "output": "KIIT offers international collaborations, UN Volunteer opportunities, global research projects, and career-building programs for students to contribute to worldwide development efforts."
+    
+    
+     "What academic programs does KIIT offer for international students?",
+      "output": "KIIT offers a wide range of undergraduate, postgraduate, and doctoral programs tailored to meet global standards for international students."
+    
+    
+     "How does KIIT foster global exposure for its students?",
+      "output": "KIIT collaborates with international universities, offers exchange programs, and partners with organizations like the UN to provide students with global exposure."
+    
+    
+     "What is KIIT’s approach to career excellence?",
+      "output": "KIIT partners with global companies, offers professional mentorship, provides career support, and ensures efficient admissions and placement processes for student success."
+    
+    
+     "How does KIIT ensure hassle-free admissions and placement?",
+      "output": "KIIT has a streamlined admission and placement process, backed by expert guidance and industry collaborations to ensure students' success."
+    
+    
+     "How does KIIT bridge the gap between theoretical and practical learning?",
+      "output": "KIIT’s modern laboratories and research centers provide hands-on learning experiences, enabling students to apply theoretical knowledge to real-world applications."
+    
+    
+     "Why should students choose KIIT for career development?",
+      "output": "KIIT provides industry collaborations, skill training, mentorship, and global opportunities, ensuring students are well-prepared for successful careers."
+    
+    
+     "What makes KIIT unique in its collaboration with UN Volunteers?",
+      "output": "KIIT is the first educational institution in India to collaborate with UN Volunteers, providing students with opportunities for global leadership and meaningful real-world projects."
+    
+    
+     "What percentage of recent KIIT graduates have started a new job?",
+      "output": "92% of recent KIIT graduates have started a new job."
+    
+    
+     "How many academic programs are available at KIIT?",
+      "output": "KIIT offers more than 200 academic programs."
+    
+    
+     "Who is the founder of KIIT?",
+      "output": "Prof. Achyuta Samanta is the founder of KIIT and KISS, recognized for his contributions to education, philanthropy, and social development."
+    
+    
+     "What is the famous phrase used by Dr. Achyuta Samanta for KIIT students?",
+      "output": "Dr. Achyuta Samanta often refers to students as 'My Loveable KIITians,' a phrase cherished by graduates and new students alike."
+    
+    
+     "What are the key areas of contribution by Dr. Achyuta Samanta?",
+      "output": "Dr. Achyuta Samanta has contributed to education, women empowerment, rural development, tribal upliftment, art, culture, literature, media, social work, and spiritualism."
+    
+    
+     "What makes Dr. Achyuta Samanta a modern-day philanthropist?",
+      "output": "Dr. Achyuta Samanta is known for his humble lifestyle and significant contributions to education and social welfare, often described as a modern-day philanthropist."
+    
+    
+     "Where is KIIT’s permanent campus located?",
+      "output": "KIIT has only one permanent campus, which is located in Bhubaneswar, Odisha."
+    
+    
+     "Does KIIT have any off-campus locations in India or abroad?",
+      "output": "No, KIIT does not have any other campuses or off-campus locations in India or globally."
+    
+    
+     "What are some of the key aspects that make KIIT a top choice for students?",
+      "output": "KIIT offers top results, expert advice, industry-oriented strategies, and strong placement support."
+    
+    
+     "How does KIIT help students grow beyond academics?",
+      "output": "KIIT provides opportunities for leadership, social engagement, and global exposure through various programs, including collaborations with organizations like UN Volunteers."
+    
+    
+     "What are some of the key academic areas at KIIT?",
+      "output": "KIIT covers a wide range of academic areas, including engineering, law, business, social sciences, medicine, and more."
+    
+    
+     "How does KIIT support student success?",
+      "output": "KIIT provides expert guidance, career counseling, hands-on learning, and mentorship to help students achieve top results."
+    
+    
+     "What makes KIIT a hub for innovation and excellence?",
+      "output": "KIIT fosters innovation through research, modern laboratories, industry collaborations, and a commitment to academic excellence."
+    
+    
+     "How does KIIT ensure a well-rounded student experience?",
+      "output": "KIIT balances academics, industry exposure, research, and extracurricular activities to provide a holistic student experience."
+    
+    
+     "What kind of leadership opportunities does KIIT provide?",
+      "output": "KIIT offers leadership programs, global collaborations, and community engagement initiatives to empower students."
+    
+    
+     "How does KIIT contribute to women empowerment?",
+      "output": "KIIT actively supports women empowerment through education, scholarships, mentorship programs, and social initiatives led by Dr. Achyuta Samanta."
+    
+    
+     "What is the significance of KISS, founded by Dr. Achyuta Samanta?",
+      "output": "Kalinga Institute of Social Sciences (KISS) is an initiative by Dr. Achyuta Samanta to provide free education and support to tribal students."
+    
+    
+     "What values define KIIT as an institution?",
+      "output": "KIIT is defined by excellence in education, social responsibility, innovation, and a strong commitment to student success."
+    
+    
+     "What kind of career support does KIIT provide?",
+      "output": "KIIT provides extensive career support, including expert advice, industry connections, and a strong placement network with top recruiters."
+    
+    
+     "What is KIIT's official email address for inquiries?",
+      "output": "The official email address for inquiries at KIIT is kiit@kiit.ac.in."
+    
+    
+     "Where is KIIT located?",
+      "output": "KIIT is located in Patia, Bhubaneswar, Odisha, India - 751024."
+    
+    
+     "What are the helpline numbers for KIIT?",
+      "output": "The helpline numbers for KIIT are 0674 2725113 and 0674 2741389."
+    
+    
+     "How can students apply for admission to KIIT?",
+      "output": "Students can apply for admission through KIITEE, scholarships, placements, and international applications available on the KIIT website."
+    
+    
+     "What is the KIIT SAP Portal used for?",
+      "output": "The KIIT SAP Portal is India’s first university-wide SAP implementation, used for academic processes, student management, and faculty operations."
+    
+    
+     "What are some of the student resources available at KIIT?",
+      "output": "Student resources at KIIT include the library, student activity center, counseling cell, placement cell, and research journal."
+    
+    
+     "How does KIIT support research and consultancy?",
+      "output": "KIIT provides research and consultancy support through policies, guidelines, and a dedicated research journal."
+    
+    
+     "What student support services does KIIT offer?",
+      "output": "KIIT offers services such as student counseling, grievance redressal, career guidance, and an equal opportunity cell."
+    
+    
+     "What international collaborations does KIIT have?",
+      "output": "KIIT has MOUs and collaborations with 140+ global universities and prestigious international bodies."
+    
+    
+     "What is the KIIT Innovation & Startup Policy?",
+      "output": "The KIIT Innovation & Startup Policy is designed to foster entrepreneurship and support student-led startups through mentorship and funding."
+    
+    
+     "What are some of the recognized centers at KIIT?",
+      "output": "KIIT has multiple recognized centers, including the Learning Development Center, Sustainability Center, and Centers of Excellence."
+    
+    
+     "How does KIIT ensure academic excellence?",
+      "output": "KIIT ensures academic excellence through its curriculum, faculty development programs, scholarships, and accreditation by NAAC, NBA, and NIRF."
+    
+    
+     "What is the purpose of the Student’s Code of Conduct at KIIT?",
+      "output": "The Student’s Code of Conduct at KIIT ensures discipline, ethical behavior, and academic integrity among students."
+    
+    
+     "What is the purpose of the Internal Complaint Committee at KIIT?",
+      "output": "The Internal Complaint Committee at KIIT addresses grievances related to harassment and ensures a safe campus environment."
+    
+    
+     "What is the role of the KIIT Executive Committee Society?",
+      "output": "The KIIT Executive Committee Society oversees the university’s governance, ensuring smooth academic and administrative operations."
+    
+    
+     "How does KIIT handle anti-ragging measures?",
+      "output": "KIIT has a strict Anti-Ragging Committee that ensures a safe and ragging-free environment for all students."
+    
+    
+     "What global rankings and recognitions has KIIT received?",
+      "output": "KIIT has received top rankings from NAAC, NBA, NIRF, and QS World University Rankings, among others."
+    
+    
+     "What facilities does the KIIT Library offer?",
+      "output": "The KIIT Library offers digital resources, research journals, academic books, and study spaces for students and faculty."
+    
+    
+     "What sustainability initiatives does KIIT undertake?",
+      "output": "KIIT has dedicated sustainability programs focusing on environmental conservation, green campuses, and research on sustainable development."
+    
+    
+     "How can students access the KIIT Review and Research Journal?",
+      "output": "Students can access the KIIT Review and Research Journal through the official KIIT website under the Research section."
+    
+    
+     "What is the KIIT Executive Committee Society responsible for?",
+      "output": "The KIIT Executive Committee Society oversees university governance and ensures smooth academic and administrative operations."
+    
+    
+     "What is the role of the Academic Council at KIIT?",
+      "output": "The Academic Council at KIIT is responsible for academic regulations, curriculum development, and faculty guidelines."
+    
+    
+     "What is the purpose of the Equal Opportunity Cell at KIIT?",
+      "output": "The Equal Opportunity Cell at KIIT ensures a fair and inclusive environment for students, especially those from marginalized communities."
+    
+    
+     "How can students access KIIT’s research resources?",
+      "output": "Students can access research resources through the KIIT Research Journal, library, and research and consultancy guidelines."
+    
+    
+     "What is KIIT’s connection with Ek Bharat Shreshtha Bharat?",
+      "output": "KIIT participates in the Ek Bharat Shreshtha Bharat initiative to promote national integration through cultural and academic exchanges."
+    
+    
+     "How does KIIT support student grievances?",
+      "output": "KIIT provides grievance redressal through the AICTE Online Grievance portal, Student Grievance Redressal Cell (SGRC), and internal complaint committees."
+    
+    
+     "What kind of international programs does KIIT offer?",
+      "output": "KIIT offers international programs, including student exchange, research collaborations, and dual-degree opportunities with global institutions."
+    
+    
+     "Where can students find information about KIIT’s placement process?",
+      "output": "Students can find placement information through the KIIT Placement Cell, career guidance sessions, and recruiter partnerships."
+    
+    
+     "What is the significance of the KIIT-DU Alumni Information section?",
+      "output": "The KIIT-DU Alumni Information section keeps graduates connected with the university and provides career networking opportunities."
+    
+    
+     "What sustainability initiatives does KIIT follow?",
+      "output": "KIIT promotes sustainability through green campus initiatives, renewable energy research, and environmental conservation programs."
+    
+    
+     "How does KIIT support innovation and startups?",
+      "output": "KIIT supports innovation and startups through the KIIT Innovation & Startup Policy, technology incubators, and mentorship programs."
+    
+    
+     "What COVID-19 support services does KIIT provide?",
+      "output": "KIIT provides COVID-19 counseling, awareness programs, and follows WHO and CDC directives for campus safety."
+    
+    
+     "What academic accreditation does KIIT have?",
+      "output": "KIIT is accredited by NAAC, NBA, UGC, NIRF, and other national and international academic bodies."
+    
+    
+     "What student engagement opportunities are available at KIIT?",
+      "output": "Students at KIIT can engage in cultural fests, research conferences, sports, and various student-run clubs."
+    
+    
+     "How can students verify their KIIT certificates?",
+      "output": "Students can verify their KIIT certificates through the National Academic Depository and the university’s verification portal."
+    
+    
+     "What is the purpose of the KIIT Anthem?",
+      "output": "The KIIT Anthem represents the university’s values, vision, and commitment to academic excellence."
+    
+    
+     "How does KIIT promote social responsibility?",
+      "output": "KIIT promotes social responsibility through initiatives like the KISS Foundation, Kanya Kiran, and community outreach programs."
+    
+    
+     "What facilities does the KIIT Learning Development Center offer?",
+      "output": "The KIIT Learning Development Center provides skill development programs, training sessions, and faculty development workshops."
+    
+    
+     "What is the function of the Internal Complaint Committee at KIIT?",
+      "output": "The Internal Complaint Committee at KIIT addresses harassment complaints and ensures a safe environment for all students and staff."
+    
+    
+     "How does KIIT ensure academic integrity?",
+      "output": "KIIT ensures academic integrity through its Student Code of Conduct, research ethics guidelines, and plagiarism checks."
+    
+    
+     "What is the official alumni network of KIIT?",
+      "output": "The Official Alumni Network of Kalinga Institute of Industrial Technology Deemed to be University"
+    
+    
+     "What is KIIT's motto?",
+      "output": "An University of Humanity, Compassion & Excellence"
+    
+    
+     "Where can I find the KIIT alumni directory?",
+      "output": "On the KIIT alumni network website"
+    
+    
+     "How can I provide feedback to the KIIT alumni network?",
+      "output": "Through the feedback section on the alumni website"
+    
+    
+     "How many academic and research staff does KIIT have?",
+      "output": "More than 2500"
+    
+    
+     "What is unique about KIIT's leadership?",
+      "output": "Top functionaries, including Chancellor and Vice Chancellor, are renowned academicians."
+    
+    
+     "What are some indicators of KIIT's quality?",
+      "output": "Patents held by faculty, research grants, national and international conferences, 100% placement records"
+    
+    
+     "Where can I find a list of KIIT faculty profiles?",
+      "output": "On the KIIT website, under Academics > Faculty, or through individual school links."
+    
+    
+     "What schools are part of KIIT?",
+      "output": "A list of schools is provided on the KIIT website, including schools of engineering, management, law, medicine, etc."
+    
+    
+     "What other information can be found on the KIIT website?",
+      "output": "Verification of certificates, FAQs, convocations, MOUs, centers of excellence, placement information, international affairs, library details, testimonials, mandatory disclosures, alumni information, etc."
+    
+    
+     "How can I contact KIIT?",
+      "output": "Contact details, including email and helpline numbers, are provided on the KIIT website."
+    
+    
+     "What is the helpline number for KIIT admissions?",
+      "output": "8080 735 735"
+    
+    
+     "What is the helpline number for KIIT online programs?",
+      "output": "8856080200"
+    
+    
+     "What is the KIIT virtual tour?",
+      "output": "An online tour of the KIIT campus"
+    
+    
+     "What is KIIT's approach to education?",
+      "output": "World-class faculty and education"
+    
+    
+     "What is the role of the Controller of Examinations at KIIT?",
+      "output": "Oversees examination-related matters, including regulations, notices, transcripts, and student logins."
+    
+    
+     "How can students access their examination results?",
+      "output": "Through the student login on the Controller of Examinations page."
+    
+    
+     "Where can I find information about KIIT's examination regulations?",
+      "output": "On the Controller of Examinations page, under Examination Regulations."
+    
+    
+     "What is the purpose of the KIIT website's section?",
+      "output": "Provides quick links to frequently accessed information and actions, like applying, exploring programs, or visiting the campus."
+    
+    
+     "How can I download the KIIT prospectus?",
+      "output": "Through the 'I want to...' section on the KIIT website."
+    
+    
+     "Where can I find the KIIT academic calendar?",
+      "output": "Through the 'I want to...' section on the KIIT website."
+    
+    
+     "What is the Student Portal at KIIT?",
+      "output": "A portal for students to access various academic resources and information."
+    
+    
+     "How can KIIT alumni stay connected?",
+      "output": "Through the alumni network website (Reach Alma Mater)."
+    
+        
+     "What is the purpose of the KIIT Newsroom?",
+      "output": "To provide updates and news about KIIT."
+    
+    
+     "What information is available in the KIIT Gallery?",
+      "output": "Photos and videos showcasing KIIT's campus, events, and activities."
+    
+    
+     "Who is the current Controller of Examinations at KIIT University?",
+      "output": "Prof. (Dr.) Santosh Kumar Pani is the current Controller of Examinations at KIIT University."
+    
+    
+     "What is the email address of the Controller of Examinations at KIIT?",
+      "output": "The email address of the Controller of Examinations at KIIT is coe@kiit.ac.in."
+    
+    
+     "What are the responsibilities of the Controller of Examinations at KIIT?",
+      "output": "The Controller of Examinations is the principal officer in charge of all examination-related activities at KIIT University. He oversees examination processes, ensures compliance with regulations, and facilitates smooth conduct of examinations."
+    
+    
+     "How many years of experience does Prof. (Dr.) Santosh Kumar Pani have?",
+      "output": "Prof. (Dr.) Santosh Kumar Pani has over twenty years of experience in teaching and administration."
+    
+    
+     "What is the role of the University Examination Committee at KIIT?",
+      "output": "The University Examination Committee frames the examination regulations, which are ratified by the Academic Council of the University."
+    
+    
+     "Where can students find the examination regulations at KIIT?",
+      "output": "The examination regulations are available in the Examination Guidelines, which are shared with each school for students and faculty."
+    
+    
+     "What grading system is followed at KIIT University?",
+      "output": "KIIT University follows a grading system based on a 10-point scale."
+    
+    
+     "What is the Academic Bank of Credits at KIIT?",
+      "output": "The Academic Bank of Credits (ABC) is an initiative to store academic credits earned by students for future academic pursuits."
+    
+    
+     "What is the process for certificate verification at KIIT?",
+      "output": "KIIT provides a certificate verification service where students can submit their documents for validation through the Controller of Examinations."
+    
+    
+     "What are the rules for supplementary examinations at KIIT?",
+      "output": "KIIT has specific rules for supplementary examinations, allowing students to reappear for failed subjects to improve their grades."
+    
+    
+     "How can students get a conversion and medium of instruction certificate from KIIT?",
+      "output": "Students can request a Conversion & Medium of Instruction Certificate from the university administration by following the prescribed process."
+    
+    
+     "What are the fees for different types of certificates at KIIT?",
+      "output": "The fees for different types of certificates at KIIT are outlined in the university's official guidelines."
+    
+    
+     "What are the guidelines for preparing a Ph.D. thesis at KIIT?",
+      "output": "KIIT provides specific guidelines for Ph.D. thesis preparation, covering formatting, submission, and evaluation procedures."
+    
+    
+     "How does KIIT handle online examinations?",
+      "output": "Under the leadership of Prof. (Dr.) Santosh Kumar Pani, KIIT successfully conducted online examinations during the COVID-19 pandemic, becoming one of the first institutes in India to do so."
+    
+    
+     "What is the process for registration for the Autumn End Semester Examination at KIIT?",
+      "output": "Students need to register online for the Autumn End Semester Examination by following the university's notification and guidelines."
+    
+    
+     "Where can students find examination notices at KIIT?",
+      "output": "Examination notices are published on the official KIIT website under the 'Notices' section of the Controller of Examinations page."
+    
+    
+     "What are the eligibility criteria for appearing in KIIT examinations?",
+      "output": "Students must meet academic and attendance requirements set by the university to be eligible for examinations."
+    
+    
+     "What is the schedule for the KIITEE 2025 examination?",
+      "output": "The schedule for KIITEE 2025 is available on the official KIITEE website."
+    
+    
+     "How can students apply for KIITEE 2025?",
+      "output": "Students can apply for KIITEE 2025 online through the official KIIT admission portal. There is no application or examination fee."
+    
+    
+     "What is the official contact number for KIIT admissions?",
+      "output": "The official contact number for KIIT admissions is 8080 735 735."
+    
+    
+     "How can I pay my KIIT fees online?",
+      "output": "You can pay your KIIT fees online through the online fee payment portal on the KIIT website. You'll need your Institute Roll Number or BP number."
+    
+    
+     "What should I do if I am part of the 2025 admission batch when paying fees?",
+      "output": "For the 2025 admission batch, you should click the designated link for fee payment."
+    
+    
+     "Where can I find KIIT on social media?",
+      "output": "KIIT has a presence on Instagram, YouTube, and X (formerly Twitter)."
+    
+    
+     "What is KIIT's ranking in India?",
+      "output": "KIIT is a top-ranked university in India for academic innovation."
+    
+    
+     "What is the KIITEE?",
+      "output": "KIIT Entrance Examination"
+    
+    
+     "What international accreditations does KIIT hold?",
+      "output": "Accredited by The Institution of Engineering & Technology (UK), Tier 1 Accreditation by Washington Accord, All Engineering Programs Accredited by ABET (USA)."
+    
+    
+     "Does KIIT charge an application fee?",
+      "output": "No application fee is required."
+    
+    
+     "What programs are available at KIIT?",
+      "output": "KIIT offers a variety of undergraduate, postgraduate, and doctoral programs."
+    
+    
+     "How many countries are represented in KIIT's student body?",
+      "output": "Students come from over 65 countries."
+    
+    
+     "What is KIIT's NAAC grade?",
+      "output": "A++"
+    
+    
+     "What is KIIT's partnership with UN Volunteers?",
+      "output": "KIIT partners with UN Volunteers to offer students unique opportunities in international development."
+    
+    
+     "What is KIIT's ECOSOC status?",
+      "output": "Special Consultative Status"
+    
+    
+     "What entrance exams are accepted for KIIT's MBA program?",
+      "output": "CAT/MAT/XAT/CMAT scores are accepted."
+    
+    
+     "What is the KIIT School of Liberal Studies?",
+      "output": "A unique global pedestal for knowledge and capacity building, offering experiential learning from interdisciplinary perspectives."
+    
+    
+     "What sustainability initiatives are in place at KIIT?",
+      "output": "KIIT is pioneering sustainability with renewable energy, waste-to-biogas conversion, and zero-emission transport."
+    
+    
+     "Who is the founder of KIIT and KISS?",
+      "output": "Prof. Achyuta Samanta"
+    
+    
+     "Does KIIT have international admissions?",
+      "output": "Yes, KIIT has international admissions."
+    
+    
+     "What is KIIT's motto?",
+      "output": "Innovate, Inspire, Ignite."
+    
+    
+     "What is KIIT's vision for its students?",
+      "output": "Creating leaders for tomorrow."
+    
+    
+     "What is KIIT's approach to education?",
+      "output": "Where innovation meets excellence."
+    
+    
+     "What is the purpose of the KIIT YouTube channel?",
+      "output": "To share information about KIIT, including news, events, and student life (About, Press, Copyright, Contact us, Creator, Advertise, Developers, Terms, Privacy Policy & Safety, How YouTube works, Test new features)."
+    
+    
+     "What high-impact online courses does KIIT offer in collaboration with Harvard Business School Online?",
+      "output": "KIIT offers certification courses in collaboration with Harvard Business School Online."
+    
+    
+     "What self-paced online courses are available at KIIT?",
+      "output": "KIIT offers self-paced flexible online courses in MBA, MCA, BBA, B.Com, M.Com, and MA."
+    
+    
+     "What is the Boeing University Innovation Leadership Programme?",
+      "output": "The Boeing University Innovation Leadership Programme is a program in partnership with KIIT TBI."
+    
+    
+     "What industry-ready courses does KIIT offer?",
+      "output": "KIIT offers advanced industry-ready courses in fields like AI, Cyber Security, and Digital Manufacturing, designed in collaboration with industry leaders like L&T EduTech, Ericsson, and KPIT."
+    
+    
+     "What is KIIT's ranking in innovation?",
+      "output": "KIIT is ranked No. 1 by Atal Ranking of Institutions on Innovation Achievements for the second time continuously."
+    
+    
+     "What is KIIT's ranking among all public and private universities in India?",
+      "output": "KIIT is ranked 15th among all public and private universities in India."
+    
+    
+     "What is KIIT's ranking in the Times Higher Education World University Rankings 2024?",
+      "output": "KIIT is ranked 601-800 in the Times Higher Education World University Rankings 2024."
+    
+    
+     "What is KIIT's ranking in the Times Higher Education Young University Ranking 2024?",
+      "output": "KIIT is ranked 168th (10th best among Indian Universities) in the Times Higher Education Young University Ranking 2024."
+    
+    
+     "What is KIIT's ranking in the Times Higher Education Asia University Rankings 2023?",
+      "output": "KIIT is ranked 147th in the Times Higher Education Asia University Rankings 2023."
+    
+    
+     "What QS Stars rating does KIIT have?",
+      "output": "KIIT has a QS 5 Stars rating."
+    
+    
+     "What is KIIT's ranking in the QS World University Rankings: ASIA 2025?",
+      "output": "KIIT is ranked 257th in the QS World University Rankings: ASIA 2025."
+    
+    
+     "What is KIIT's ranking in the QS Asian University Rankings, Southern Asia 2024?",
+      "output": "KIIT is ranked 90th in the QS Asian University Rankings, Southern Asia 2024."
+    
+    
+     "What is KIIT's ranking in the QS World University Rankings: Environmental Sustainability 2024?",
+      "output": "KIIT is ranked 81st in the QS World University Rankings: Environmental Sustainability 2024."
+    
+    
+     "What are some recent news items about KIIT?",
+      "output": "Recent news includes the 20th National Phono Surgeon Conference, Youth Red Cross KIIT events, World Cancer Day, KIIT TBI events, and project expos."
+    
+    
+     "What are some upcoming events at KIIT?",
+      "output": "Upcoming events include conferences on tribal knowledge, management research, industrial electronics, and dam safety."
+    
+    
+     "What percentage of recent KIIT graduates started a new job?",
+      "output": "92% of recent KIIT graduates started a new job."
+    
+    
+     "How many academic programs are available at KIIT?",
+      "output": "Over 200 academic programs are available."
+    
+    
+     "What is KIIT's research spotlight?",
+      "output": "KIIT's research spotlight includes information on publications, h-index, and filed patents."
+    
+    
+     "How many publications does KIIT have in Scopus?",
+      "output": "KIIT has 12826+ publications in Scopus with an h-index of 118."
+    
+    
+     "How many publications does KIIT have in Web of Science?",
+      "output": "KIIT has 7528+ publications in Web of Science with an h-index of 97."
+    
+    
+     "How many patents has KIIT filed?",
+      "output": "KIIT has filed 670 patents."
+    
+    
+     "What areas does KIIT's research portfolio cover?",
+      "output": "KIIT's research portfolio covers areas such as biotechnology, medicine, rural management, physical activity and nutrition, education, and social and mental health."
+    
+    
+     "What placement opportunities does KIIT offer?",
+      "output": "KIIT offers placement opportunities with 450+ top companies, resulting in 5200+ job offers. The highest salary offered is Rs. 63 Lakhs, and the average CTC is Rs. 8 Lakhs."
+    
+    
+     "What is KIIT's approach to placement?",
+      "output": "KIIT focuses on making students industry-ready and has a well-organized placement team to streamline the recruitment process."
+    
+    
+     "How can I find my program at KIIT?",
+      "output": "You can use the search bar on the KIIT website to explore the programs offered."
+    
+    
+     "What are some popular courses at KIIT?",
+      "output": "Popular courses include Computer Science & Engineering, Mass Communication, MBA, LLB, and Mechanical Engineering."
+    
+    
+     "How many schools, faculties, students, and alumni does KIIT have?",
+      "output": "KIIT has 25 schools, 3000+ faculties, 40,000+ students, and 1 Lac alumni."
+    
+    
+     "What is KIIT's research spotlight?",
+      "output": "KIIT's research spotlight highlights its commitment to high-quality research, publications, h-index, and patents."
+    
+    
+     "What are some of KIIT's state-of-the-art laboratories?",
+      "output": "KIIT has laboratories for Hydraulic Machines, Internal Combustion Engine, Machine Kinematics and Dynamics, Metrology and Instrumentation, AeroStructures, Aerodynamics, and Thin Film Photovoltaic."
+    
+    
+     "What are the highlights of KIIT's placement cell?",
+      "output": "KIIT's Training and Placement Cell emphasizes career excellence, partnerships with leading companies, comprehensive career support, proven success, efficient processes, and guidance from mentors."
+    
+    
+     "What opportunities are available for international students at KIIT?",
+      "output": "KIIT offers a wide range of programs, collaborations with global universities, comprehensive support (scholarships, student support, assistance, and mentorship) for international students."
+    
+    
+     "What is the partnership between KIIT and UN Volunteers?",
+      "output": "KIIT has partnered with UN Volunteers to offer students opportunities to engage in real-world projects with UN Agencies, gaining global exposure and contributing to positive change."
+    
+    
+     "What is unique about KIIT's collaboration with UN Volunteers?",
+      "output": "KIIT is the first educational institution in India to collaborate with UN Volunteers for this specific program."
+    
+    
+     "Who is the founder of KIIT and KISS?",
+      "output": "Prof. Achyuta Samanta"
+    
+    
+     "What are some of Prof. Achyuta Samanta's contributions beyond education?",
+      "output": "His contributions include women empowerment, rural development, tribal upliftment, art, culture, literature, media, social work, and spiritualism."
+    
+    
+     "Does KIIT have multiple campuses?",
+      "output": "KIIT has only one permanent campus, located in Bhubaneswar, Odisha, India. It does not have any other campuses or off-campus locations anywhere else in the country or globally."
+    
+    
+     "Where is the KIIT campus located?",
+      "output": "Bhubaneswar, Odisha, India"
+    
+    
+     "What information can be found in the 'About Us' section of the KIIT website?",
+      "output": "Information about KIIT's mission, vision, history, and values."
+    
+    
+     "Where can I find answers to frequently asked questions about KIIT?",
+      "output": "In the 'FAQs' section."
+    
+    
+     "What information is provided about KIIT convocations?",
+      "output": "Details about past convocations, including dates, speakers, and graduate information."
+    
+    
+     "What are MOUs and collaborations, and where can I find information about KIIT's partnerships?",
+      "output": "MOUs (Memoranda of Understanding) are agreements with other institutions. Information about KIIT's collaborations can be found in the 'MOUs and Collaborations' section."
+    
+    
+     "What are Centres of Excellence at KIIT?",
+      "output": "Specialized centers focusing on specific areas of research and development. Information about these centers can be found in the 'Centres of Excellence' section."
+    
+    
+     "Who comprises the Executive Committee Society at KIIT?",
+      "output": "Information about the members and roles of the governing body can be found in the 'Executive Committee Society' section."
+    
+    
+     "What placement services does KIIT offer?",
+      "output": "Information about placement opportunities, training, and the placement cell can be found in the 'Placement' section."
+    
+    
+     "What information is available for international students?",
+      "output": "Information regarding admissions, scholarships, support services, and international collaborations can be found in the 'International Affairs' section."
+    
+    
+     "What resources are available in the KIIT library?",
+      "output": "Details about the library's collection, online resources, and services can be found in the 'Library' section."
+    
+    
+     "Where can I read testimonials from KIIT students and alumni?",
+      "output": "In the 'Testimonials' section."
+    
+    
+     "What are Mandatory Disclosures at KIIT?",
+      "output": "Information required by regulatory bodies, including details about faculty, infrastructure, and financial information, can be found in the 'Mandatory Disclosures' section."
+    
+    
+     "How can KIIT alumni stay connected?",
+      "output": "Information about alumni networks and events can be found in the 'KIIT-DU Alumni Information' section."
+    
+    
+     "What is the process for certificate verification at KIIT?",
+      "output": "Information on verifying certificates can be found through the 'Verification of certificates' link."
+    
+    
+     "What is ARIIA 2021?",
+      "output": "Information about the Atal Ranking of Institutions on Innovation Achievements 2021 can be found in the 'ARIIA 2021' section."
+    
+    
+     "What is the National Academic Depository?",
+      "output": "A digital repository of academic awards. Information about KIIT's participation can be found in the 'National Academic Depository' section."
+    
+    
+     "What is Ek Bharat Shreshtha Bharat?",
+      "output": "A government initiative promoting cultural exchange. Information about KIIT's involvement can be found in the 'Ek Bharat Shreshtha Bharat' section."
+    
+    
+     "Where can I find the KIIT anthem?",
+      "output": "In the 'Anthem' section."
+    
+    
+     "What are KIIT's Social Media Guidelines?",
+      "output": "Rules and regulations for social media usage related to KIIT can be found in the 'Social Media Guidelines' section."
+    
+    
+     "What is the Anti-Ragging Committee at KIIT?",
+      "output": "A committee addressing issues of ragging. Information about the committee and anti-ragging policies can be found in the 'Anti-Ragging Committee' section."
+    
+    
+     "What is the Internal Complaint Committee at KIIT?",
+      "output": "A committee addressing internal complaints. Information about the committee and complaint procedures can be found in the 'Internal Complaint Committee' section."
+    
+    
+     "Who comprises the Executive Council and Academic Council at KIIT?",
+      "output": "Information about the members and roles of these councils can be found in their respective sections."
+    
+    
+     "What is the Finance Committee's role at KIIT?",
+      "output": "Information about the committee's responsibilities can be found in the 'Finance Committee' section."
+    
+    
+     "What is the Equal Opportunity Cell at KIIT?",
+      "output": "A cell promoting equal opportunities. Information about the cell's activities can be found in the 'Equal Opportunity Cell' section."
+    
+    
+     "How can I file a grievance with AICTE online?",
+      "output": "Through the 'AICTE Online Grievance' portal."
+    
+    
+     "Where can I find KIIT's policies?",
+      "output": "In the 'Policies' section."
+    
+    
+     "What is the University Activity Monitoring Portal?",
+      "output": "A portal for monitoring university activities. Information about the portal can be found in its respective section."
+    
+    
+     "What is the Code of Conduct for Boarders at KIIT?",
+      "output": "Rules and regulations for students residing in KIIT hostels can be found in the 'Code of Conduct of Boarders' section."
+    
+    
+     "What are the Quick Links on the KIIT website?",
+      "output": "Links to frequently accessed resources, including CIQA, online programs, the SAP portal, etc."
+    
+    
+     "What is CIQA at KIIT?",
+      "output": "Information about the Centre for Internal Quality Assurance can be found in the 'CIQA' section."
+    
+    
+     "Where can I find information about KIIT's online programs and admissions?",
+      "output": "Through the 'KIIT Online Programs' and 'KIIT Online Admission & Public Notice' links."
+    
+    
+     "What is the SAP Portal?",
+      "output": "A portal likely related to administrative or enterprise resource planning systems at KIIT. Information about the portal can be found in the 'SAP Portal' section."
+    
+    
+     "What is the Grievance Portal (SGRC)?",
+      "output": "A portal for students and staff to submit grievances. Information about the portal and grievance procedures can be found in the 'Grievance Portal (SGRC)' section."
+    
+    
+     "What are the KIIT Review and KIIT Research Journal?",
+      "output": "Academic publications by KIIT. Information about these journals can be found in their respective sections."
+    
+    
+     "What services does the Student Counselling Cell offer?",
+      "output": "Information about counselling services for students can be found in the 'Student Counselling Cell' section."
+    
+    
+     "What activities are organized by the Student Activity Centre?",
+      "output": "Information about student clubs, events, and activities can be found in the 'Student Activity Centre' section."
+    
+    
+     "Who is the Controller of Examinations at KIIT, and what are their responsibilities?",
+      "output": "Information about the examination department and related processes can be found in the 'Controller of Examinations' section."
+    
+    
+     "What are Recognised Centres at KIIT?",
+      "output": "Centers recognized by KIIT for various activities. Information about these centers can be found in the 'Recognised Centres' section."
+    
+    
+     "What sustainability initiatives are undertaken by KIIT?",
+      "output": "Information about KIIT's commitment to environmental sustainability can be found in the 'Sustainability' section."
+    
+    
+     "What accreditations and rankings has KIIT received from NAAC, NBA, NIRF, and UGC?",
+      "output": "Information about these accreditations and rankings can be found in their respective sections."
+    
+    
+     "What is IQAC at KIIT?",
+      "output": "Information about the Internal Quality Assurance Cell can be found in the 'IQAC' section."
+    
+    
+     "What is KIIT NISP?",
+      "output": "Information about the KIIT National Innovation and Startup Policy can"
+    
+    
+     "Who is the founder of KIIT and KISS?",
+      "output": "Prof. Achyuta Samanta is the founder of KIIT (Kalinga Institute of Industrial Technology) and KISS (Kalinga Institute of Social Sciences)."
+    
+    
+     "What is KISS and how many students does it support?",
+      "output": "KISS (Kalinga Institute of Social Sciences) is a fully free residential educational institution supporting 80,000 tribal children from KG to PG."
+    
+    
+     "What was Prof. Achyuta Samanta’s early life like?",
+      "output": "Born in poverty in a remote village in Odisha, Prof. Achyuta Samanta lost his father at the age of four and struggled for food and education for 15 years."
+    
+    
+     "At what age did Prof. Samanta start KIIT and KISS?",
+      "output": "He started KIIT and KISS at the age of 25 with just Rs 5000 in two rented houses."
+    
+    
+     "How many students does KIIT currently have?",
+      "output": "KIIT currently has 40,000 students, with representation from 65 countries."
+    
+    
+     "What is KISS Deemed to be University?",
+      "output": "KISS Deemed to be University is the first and only university exclusively for tribal scholars, offering innovative tribal courses."
+    
+    
+     "How has KISS contributed to society?",
+      "output": "KISS has helped in reducing naxalism, harassment, trafficking, malnutrition, illiteracy, and superstitions by promoting education among tribal communities."
+    
+    
+     "What medical institutions has Prof. Samanta established?",
+      "output": "He founded Kalinga Institute of Medical Sciences, Kalinga Institute of Dental Sciences, and Kalinga Institute of Nursing Sciences, along with a 2600-bedded hospital, a super-specialty center, and a cancer care hospital."
+    
+    
+     "What is Kalarabanka Smart Village?",
+      "output": "Kalarabanka is the first smart village in Asia, fully solar-powered and developed by Prof. Samanta as a model panchayat in Odisha."
+    
+    
+     "How has Prof. Samanta contributed to sports?",
+      "output": "He has nurtured 23 Olympians and 3 Paralympians, created extensive sports infrastructure, and promoted sports for national unity and social integration."
+    
+    
+     "What are some of Prof. Samanta’s contributions beyond education?",
+      "output": "He has contributed immensely to art, culture, sculpture, literature, film, media, spirituality, rural development, and humanitarian efforts."
+    
+    
+     "How does Prof. Samanta live despite his achievements?",
+      "output": "Despite numerous achievements, awards, and access to luxuries, he leads a simple life and remains a bachelor, embodying humility and compassion."
+    
+    
+     "How many honorary doctorates has Prof. Samanta received?",
+      "output": "He has received 60+ honorary doctorates from universities across India and the world, making him the Indian with the most honorary doctorates."
+    
+    
+     "What major international civilian awards has Prof. Samanta won?",
+      "output": "He has won the ISA Award for Service to Humanity from Bahrain (with a $1 million cash prize) and the ‘Best Worker’ Award from Mongolia."
+    
+    
+     "How many lifetime achievement awards has Prof. Samanta received?",
+      "output": "He has received eight lifetime achievement awards."
+    
+    
+     "What fellowships and memberships does Prof. Samanta hold?",
+      "output": "He holds fellowships from ISTE, CSI, ICA, APACH, the Royal Society of Chemistry (UK), and the Institution of Fire Engineers."
+    
+    
+     "What government commissions has Prof. Samanta been part of?",
+      "output": "He has been a commission member of UGC (twice) and an executive member of AICTE and NCTE, Govt. of India."
+    
+    
+     "What leadership roles has Prof. Samanta held in organizations?",
+      "output": "He has served as the President of the Volleyball Federation of India, Democracy Without Borders (India Chapter), Indian Science Congress, World Congress of Poets, and Indian Economic Association."
+    
+    
+     "What political positions has Prof. Samanta held?",
+      "output": "He was elected as a Member of Rajya Sabha in 2018 and later as a Member of Parliament (Lok Sabha) from Kandhamal (2019-2024)."
+    
+    
+     "What are some key areas of Prof. Samanta’s humanitarian activities?",
+      "output": "His humanitarian efforts focus on women empowerment, sustainable development, peace, health and well-being, literature, culture, media, and spiritualism."
+    
+    
+     "What is the academic structure of KIIT?",
+      "output": "KIIT consists of 28 schools co-located on one contiguous campus, offering multidisciplinary collaboration across various fields of study."
+    
+    
+     "How many academic programs does KIIT offer?",
+      "output": "KIIT offers 200 academic programs across undergraduate, master's, and doctoral levels."
+    
+    
+     "What is the faculty strength at KIIT?",
+      "output": "KIIT has a faculty strength of approximately 3000 members."
+    
+    
+     "How many students are currently studying at KIIT?",
+      "output": "KIIT has a student population of over 40,000."
+    
+    
+     "What levels of education does KIIT offer?",
+      "output": "KIIT offers undergraduate, master's, and doctoral-level programs across multiple disciplines."
+    
+    
+     "What is KIIT’s educational philosophy?",
+      "output": "KIIT focuses on a broad-based core curriculum promoting critical thinking, communication skills, lifelong learning, and professional development."
+    
+    
+     "How does KIIT support interdisciplinary learning?",
+      "output": "KIIT’s co-located schools encourage multidisciplinary collaboration among students and faculty members."
+    
+    
+     "What is KIIT’s approach to higher education?",
+      "output": "KIIT provides a comprehensive education that emphasizes intellectual acumen, professionalism, and commitment to community advancement."
+    
+    
+     "What is the role of faculty and staff at KIIT?",
+      "output": "KIIT’s faculty and staff work together to create a learning environment that helps students set and achieve their academic and professional goals."
+    
+    
+     "How does KIIT prepare students for professional success?",
+      "output": "KIIT integrates a balanced curriculum with industry interaction, equipping students with practical knowledge and skills."
+    
+    
+     "What kind of curriculum does KIIT offer?",
+      "output": "KIIT offers a focused and balanced curriculum that includes a broad-based core promoting intellectual and professional growth."
+    
+    
+     "What opportunities does KIIT provide for research?",
+      "output": "KIIT supports extensive research initiatives through its various schools, faculty guidance, and collaboration with industries."
+    
+    
+     "How does KIIT contribute to community development?",
+      "output": "KIIT instills a philosophy in students that values learning, professionalism, and contribution to the community."
+    
+    
+     "What are the key academic strengths of KIIT?",
+      "output": "KIIT excels in multidisciplinary collaboration, research, professional education, and student development."
+    
+    
+     "How does KIIT promote student engagement?",
+      "output": "KIIT fosters student engagement through faculty interaction, industry partnerships, and a community-driven academic environment."
+    
+    
+     "What kind of industry interaction does KIIT offer?",
+      "output": "KIIT collaborates with industries to provide students with real-world exposure, internships, and practical training opportunities."
+    
+    
+     "Does KIIT offer scholarships for students?",
+      "output": "Yes, KIIT provides scholarships and fellowships to meritorious and deserving students across various programs."
+    
+    
+     "What makes KIIT unique among other institutions?",
+      "output": "KIIT’s co-located schools, multidisciplinary approach, diverse student body, and strong industry collaborations make it stand out."
+    
+    
+     "How does KIIT ensure academic excellence?",
+      "output": "KIIT maintains high academic standards through experienced faculty, rigorous curriculum, and industry-aligned programs."
+    
+    
+     "What is the student experience like at KIIT?",
+      "output": "KIIT provides a dynamic learning environment with a focus on intellectual growth, research, industry exposure, and community service."
+    
+    
+     "What is KIIT?",
+      "output": "KIIT (Kalinga Institute of Industrial Technology) is a premier university located in Bhubaneswar, Odisha, offering a wide range of academic programs."
+    
+    
+     "Where is KIIT located?",
+      "output": "KIIT is located in Patia, Bhubaneswar, Odisha, India - 751024."
+    
+    
+     "How can I contact KIIT for general inquiries?",
+      "output": "You can contact KIIT via email at email protected or call the helpline at 0674 2725113 / 0674 2741389."
+    
+    
+     "What academic programs are available at KIIT?",
+      "output": "KIIT offers undergraduate, postgraduate, and doctoral programs across multiple disciplines, including engineering, medicine, law, management, and social sciences."
+    
+    
+     "How can I apply for admission at KIIT?",
+      "output": "You can apply for admission through the KIITEE entrance exam or directly via the official website: kiit.ac.in."
+    
+    
+     "Does KIIT offer scholarships?",
+      "output": "Yes, KIIT offers various scholarships based on merit, financial need, and special categories."
+    
+    
+     "What is KIITEE?",
+      "output": "KIITEE (KIIT Entrance Examination) is an entrance test conducted by KIIT for admission into various programs."
+    
+    
+     "What are the placement opportunities at KIIT?",
+      "output": "KIIT has a strong placement record, with top recruiters from various industries offering job opportunities to students."
+    
+    
+     "Does KIIT have international collaborations?",
+      "output": "Yes, KIIT has multiple MOUs and collaborations with international universities and research institutions."
+    
+    
+     "What is the KIIT-DU Alumni Information portal?",
+      "output": "The KIIT-DU Alumni Information portal helps former students stay connected with the university and network with fellow alumni."
+    
+    
+     "What is the KIIT Innovation & Startup Policy?",
+      "output": "KIIT Innovation & Startup Policy supports entrepreneurship and fosters a startup culture among students and faculty."
+    
+    
+     "Does KIIT offer online programs?",
+      "output": "Yes, KIIT provides online programs through its dedicated KIIT Online Programs platform."
+    
+    
+     "What student support services are available at KIIT?",
+      "output": "KIIT offers counseling, student activity centers, grievance redressal portals, and academic support through various departments."
+    
+    
+     "What sustainability initiatives does KIIT have?",
+      "output": "KIIT promotes sustainability through eco-friendly campus practices, renewable energy use, and various green initiatives."
+    
+    
+     "What is the Kalarabanka Smart Village initiative?",
+      "output": "Kalarabanka Smart Village is a fully solar-powered model village in Odisha developed by KIIT."
+    
+    
+     "What is the KIIT Student Code of Conduct?",
+      "output": "The KIIT Student Code of Conduct outlines ethical guidelines, academic integrity, and behavioral expectations for students."
+    
+    
+     "What is the KIIT Research Journal?",
+      "output": "The KIIT Research Journal publishes scholarly articles and research findings from various disciplines."
+    
+    
+     "Does KIIT have an anti-ragging policy?",
+      "output": "Yes, KIIT has a strict anti-ragging policy and an Anti-Ragging Committee to ensure student safety."
+    
+    
+     "What is the role of the Internal Complaint Committee at KIIT?",
+      "output": "The Internal Complaint Committee at KIIT addresses grievances related to workplace and academic harassment."
+    
+    
+     "How does KIIT support students during COVID-19?",
+      "output": "KIIT provides COVID-19 counseling, online courses, and follows WHO and CDC directives for campus safety."
+    
+    
+     "What is the Compliance Cell at KIIT?",
+      "output": "The Compliance Cell at KIIT's School of Computer Engineering provides a single-window support service for students, assisting with document applications, academic concerns, and career-related matters."
+  
+  
+     "What are the working hours of the Compliance Cell at KIIT?",
+      "output": "The Compliance Cell operates from 10:00 AM to 5:00 PM, with a lunch break from 1:00 PM to 2:00 PM, except on Sundays and university holidays."
+  
+  
+     "How can I get a duplicate identity card at KIIT?",
+      "output": "To get a duplicate identity card, you need to fill out form CC-01, pay a fee of Rs. 200, and provide a photograph and money receipt. The process takes approximately 2 days."
+  
+  
+     "How can I obtain a Bonafide Certificate from KIIT?",
+      "output": "To obtain a Bonafide Certificate, you need to submit a general application. The processing time is 1 day."
+  
+  
+     "What documents are required for a duplicate registration card at KIIT?",
+      "output": "For a duplicate registration card, you need to submit an FIR copy and a money receipt along with the form CC-02. The processing time is 2 days."
+  
+  
+     "Where should I contact for discrepancy in marks for B.Tech 2020 & 2019 batch?",
+      "output": "For discrepancies in marks for B.Tech 2020 and 2019 batch students, contact acoe.cse@kiit.ac.in."
+  
+  
+     "Who should I contact for issues related to hostel matters at KIIT?",
+      "output": "For hostel-related matters, contact manoj.meeher@kiit.ac.in or hostel@kiit.ac.in."
+  
+  
+     "How can I get a migration certificate from KIIT?",
+      "output": "To get a migration certificate, you need to fill out form CC-08, pay Rs. 100 (Rs. 150 for a duplicate), and submit an FIR copy, affidavit, and money receipt. The process takes 2 days."
+  
+  
+     "How long does it take to get a Provisional Certificate from KIIT?",
+      "output": "A Provisional Certificate takes 3 months to process and requires a FIR copy, affidavit, money receipt, and newspaper clippings if applying after convocation."
+  
+  
+     "Where should I contact for library book access issues at KIIT?",
+      "output": "For library access and book-related issues, contact bijaylaxmi@kiit.ac.in."
+  
+  "input": "Where is campus 1 Kiit University?", "output": "name": "Koel", "address": "Campus 1, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/zJ2jSk72auecHcPG6"}
+  "input": "Where is campus 2 Kiit University?", "output": "name": "Kolab", "address": "Campus 2, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/6J6tsgQJPw9uxC4NA"}
+  "input": "Where is campus 3 Kiit University?", "output": "name": "Kathajodi", "address": "Campus 3, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/fsLieTPw7aJ5e2Vt6"}
+  "input": "Where is campus 4 Kiit University?", "output": "name": "Kharashotra", "address": "Campus 4, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/6NgrEvxE4X7MyN9n8"}
+  "input": "Where is campus 5 Kiit University?", "output": "name": "Kusabhadra", "address": "Campus 5, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/mrgzRjcVYREFbSVh7"}
+  "input": "Where is campus 6 Kiit University?", "output": "name": "Kosi", "address": "Campus 6, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/3Mpuz1gqNdZVkdfY8"}
+  "input": "Where is campus 7 Kiit University?", "output": "name": "Krishna", "address": "Campus 7, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/dZ28qMh1deJQZ9R36"}
+  "input": "Where is campus 8 Kiit University?", "output": "name": "Kaveri", "address": "Campus 8, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/yh7U32HCATbC3zrW9"}
+  "input": "Where is campus 9 Kiit University?", "output": "name": "KIIT International School", "address": "Campus 9, KIIT International School, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/hqeqUTkPfCehAj7w5"}
+  "input": "Where is campus 11 Kiit University?", "output": "name": "Kundali", "address": "Campus 11, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/Q92xr8ubDum7JCqW7"}
+  "input": "Where is campus 12 Kiit University?", "output": "name": "Kodoor", "address": "Campus 12, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/K1a2srLyuGLvf3EP9"}
+  "input": "Where is campus 13 Kiit University?", "output": "name": "Karmansha", "address": "Campus 13, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/wt1d3vGJNRg6mjkG7"}
+  "input": "Where is campus 14 Kiit University?", "output": "name": "Kaladan", "address": "Campus 14, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/9eQ2ZjwUewWXViny9"}
+  "input": "Where is campus 15 Kiit University?", "output": "name": "Kallayi", "address": "Campus 15, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/RHpF4csCAf8LYeHa8"}
+  "input": "Where is campus 16 Kiit University?", "output": "name": "Kangsbati", "address": "Campus 16, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/QjtXRdUjKSVSdKYXA"}
+  "input": "Where is campus 17 Kiit University?", "output": "name": "Architectural Building", "address": "Campus 17, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/DZgbnof2SKtkKQJ56"}
+  "input": "Where is campus 18 Kiit University?", "output": "name": "School of Fashion Technology", "address": "Campus 18, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/rYVHAxQWcCPab1n89"}
+  "input": "Where is campus 19 Kiit University?", "output": "name": "Campus 19", "address": "Campus 19, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/9sBvu8mR1TjaHoz86"}
+  "input": "Where is campus 20 Kiit University or Where is KIIT Central Library?", "output": "name": "Knowledge Tower-Central Library", "address": "Campus 20, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/WZKt8JCnDxtExdu16"}
+  "input": "Where is campus 22 Kiit University?", "output": "name": "Campus 22", "address": "Campus 22, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/VU9pyqV326Er1fuP9"}
+  "input": "Where is campus 25 Kiit University?", "output": "name": "Campus 25", "address": "Campus 25, KIIT University, Patia, Bhubaneswar, Odisha, 751024, India", "google_maps_link": "https://maps.app.goo.gl/a9gQeFr12SXsCnMBA"}
+
+ "What is Korus?",
+  "output": "Korus is the official Music and Dance Society of KIIT. It aims to produce talents from the hub of KSAC. More details: https://ksac.kiit.ac.in/korus/"
+
+
+ "What is Kalakaar?",
+  "output": "Kalakaar is the official Dramatic Society of KIIT. It works with Theater and Nukkad and organizes dramatic competitions. More details: https://ksac.kiit.ac.in/kalakaar/"
+
+
+ "What is Kreative Eye?",
+  "output": "Kreative Eye is the official Photography & Painting Society of KIIT, capturing moments and expressing creativity through art. More details: https://ksac.kiit.ac.in/kreative-eye/"
+
+
+ "What is Kzarshion?",
+  "output": "Kzarshion is the official Fashion Society of KIIT, promoting fashion and style in an innovative way. More details: https://ksac.kiit.ac.in/kzarshion/"
+
+
+ "What is Keurig?",
+  "output": "Keurig is the official Food Society of KIIT, where food lovers explore new recipes and cooking techniques. More details: https://ksac.kiit.ac.in/keurig/"
+
+
+ "What is Qutopia?",
+  "output": "Qutopia is the official Quizzing Society of KIIT, organizing quiz competitions and promoting knowledge. More details: https://ksac.kiit.ac.in/qutopia/"
+
+
+ "What is Kronicle?",
+  "output": "Kronicle is the literary and debating society of KIIT, fostering intellectual discussions and writing. More details: https://ksac.kiit.ac.in/kronicle/"
+
+
+ "What is Kalliope?",
+  "output": "Kalliope is a society dedicated to public speaking, debates, and discussions. More details: https://ksac.kiit.ac.in/kalliope/"
+
+
+ "What is KIIT Wordsmith?",
+  "output": "KIIT Wordsmith helps students improve their writing skills and creativity. More details: https://ksac.kiit.ac.in/kiit-wordsmith/"
+
+
+ "What is Khwahishein?",
+  "output": "Khwahishein promotes Hindi literature, poetry, and public speaking. More details: https://ksac.kiit.ac.in/khwahishein/"
+
+
+ "What is Khwaab?",
+  "output": "Khwaab works on social initiatives inspired by 'Art of Giving' and 'Kompassion'. More details: https://ksac.kiit.ac.in/khwaab/"
+
+
+ "What is KIIT Film Society?",
+  "output": "KIIT Film Society provides a platform for students to explore film-making and storytelling. More details: https://ksac.kiit.ac.in/kiit-film-society/"
+
+
+ "What is Kamakshi & HeForShe?",
+  "output": "Kamakshi and HeForShe work towards women's empowerment and gender equality. More details: https://ksac.kiit.ac.in/kamakshi-heforshe/"
+
+
+ "What is TEDX-KU?",
+  "output": "TEDX-KU organizes TEDx events to bridge the gap between ideas and actions. More details: https://ksac.kiit.ac.in/tedx-ku/"
+
+
+ "What is MUN-SOC?",
+  "output": "MUN-SOC organizes Model UN conferences to simulate real-world diplomacy. More details: https://ksac.kiit.ac.in/mun-soc/"
+
+
+ "What is KIIT Intl. Student Society?",
+  "output": "A community for international students at KIIT, fostering cultural exchange. More details: https://ksac.kiit.ac.in/intl-student-society/"
+
+
+ "What is Kimaya?",
+  "output": "Kimaya raises health awareness and organizes medical-related activities. More details: https://ksac.kiit.ac.in/kimaya/"
+
+
+ "What is Kraya & Kuber?",
+  "output": "Kraya & Kuber focuses on marketing and financial education for students. More details: https://ksac.kiit.ac.in/kraya-kuber/"
+
+
+ "What is KIIT Animal & Environment Welfare Society?",
+  "output": "Works towards animal welfare and environmental sustainability. More details: https://ksac.kiit.ac.in/animal-environment-welfare/"
+
+
+ "What is Kraftovity?",
+  "output": "Kraftovity focuses on creativity through art, craft, and decoration. More details: https://ksac.kiit.ac.in/kraftovity/"
+
+
+ "What is SPIC MACAY?",
+  "output": "SPIC MACAY promotes Indian classical music, dance, and culture. More details: https://ksac.kiit.ac.in/spic-macay/"
+
+
+ "What is Enactus?",
+  "output": "Enactus focuses on social entrepreneurship to create real-world impact. More details: https://ksac.kiit.ac.in/enactus/"
+
+
+ "What is Konnexions?",
+  "output": "Konnexions helps students enhance IT and web development skills. More details: https://ksac.kiit.ac.in/konnexions/"
+
+
+ "What is KIIT Robotics Society?",
+  "output": "Focuses on research and innovation in the field of robotics. More details: https://ksac.kiit.ac.in/robotics-society/"
+
+
+ "What is KIIT Society for Civil Engineers?",
+  "output": "Provides networking and learning opportunities for Civil Engineering students. More details: https://ksac.kiit.ac.in/civil-engineers/"
+
+
+ "What is KIIT Electrical Society?",
+  "output": "Focuses on research and development in electrical engineering. More details: https://ksac.kiit.ac.in/electrical-society/"
+
+
+ "What is Apogeio?",
+  "output": "Apogeio focuses on space technology and aeronautics research. More details: https://ksac.kiit.ac.in/apogeio/"
+
+
+ "What is KIIT Automobile Society?",
+  "output": "KIIT Automobile Society works on eco-friendly vehicle design and innovations. More details: https://ksac.kiit.ac.in/automobile-society/"
+
+
+ "holiday list",
+  
+      "date": "26.02.2025", "day": "Wednesday", "event": "Maha Shivratri"
+      "date": "05.03.2025", "day": "Wednesday", "event": "Panchayatra Diwas"
+      "date": "31.03.2025", "day": "Monday", "event": "Id-ul-Fitre"
+      "date": "01.04.2025", "day": "Tuesday", "event": "Utkal Divas"
+      "date": "14.04.2025", "day": "Monday", "event": "Maha Vishuba Sankranti"
+      "date": "18.04.2025", "day": "Friday", "event": "Good Friday"
+      "date": "27.06.2025", "day": "Friday", "event": "Rath Yatra"
+      "date": "15.08.2025", "day": "Friday", "event": "Independence Day & Janmastami"
+      "date": "27.08.2025", "day": "Wednesday", "event": "Ganesh Puja"
+      "date": "28.08.2025", "day": "Thursday", "event": "Nuakhai"
+      "date": "05.09.2025", "day": "Friday", "event": "Birthday of Prophet Mohammad"
+      "date": "29.09.2025 – 07.10.2025", "day": "Monday – Tuesday", "event": "Durga Puja – Kumar Purnima"
+      "date": "20.10.2025 – 21.10.2025", "day": "Monday – Tuesday", "event": "Kalipuja & Diwali"
+      "date": "05.11.2025", "day": "Wednesday", "event": "Kartika Purnima/ Guru Nanak’s Birthday"
+      "date": "25.12.2025", "day": "Thursday", "event": "Christmas"
+      
+      "date": "26.01.2025", "day": "Sunday", "event": "Republic Day"
+      "date": "02.02.2025", "day": "Sunday", "event": "Basanta Panchami"
+      "date": "15.03.2025", "day": "Saturday", "event": "Holi"
+      "date": "06.04.2025", "day": "Sunday", "event": "Ram Navami"
+      "date": "08.06.2025", "day": "Sunday", "event": "Id-ul-Juha"
+      "date": "15.06.2025", "day": "Sunday", "event": "Raja Sankranti"
+      "date": "06.07.2025", "day": "Sunday", "event": "Muharram"}
+  
+
+
+ "Faculty list",
+  
+      "name": "Jasaswi Mohanty", "email": "jasaswi.mohantyfcs@kiit.ac.in"
+      "name": "Jay Sarraf", "email": "jay.sarraffcs@kiit.ac.in"
+      "name": "Jayanta Mondal", "email": "jayanta.mondalfcs@kiit.ac.in"
+      "name": "Jayanti Dansana", "email": "jayantifcs@kiit.ac.in"
+      "name": "Jayeeta Chakraborty", "email": "jayeeta.chakrabortyfcs@kiit.ac.in"
+      "name": "Jhalak Hota", "email": "jhalak.hotafcs@kiit.ac.in"
+      "name": "Joy Dutta", "email": "joy.duttafcs@kiit.ac.in"
+      "name": "Junali Jasmine Jena", "email": "junali.jenafcs@kiit.ac.in"
+      "name": "Jyotiprakash Mishra", "email": "jyotiprakash.mishrafcs@kiit.ac.in"
+      "name": "Krishna Chakravarty", "email": "krishna.chakravartyfcs@kiit.ac.in"
+      "name": "Krishnendu Maity", "email": "krishnendu.maityfcs@kiit.ac.in"
+      "name": "Krutika Verma", "email": "krutika.vermafcs@kiit.ac.in"
+      "name": "Kumar Devadutta", "email": "kdevduttafcs@kiit.ac.in"
+      "name": "Kunal Anand", "email": "kunal.anandfcs@kiit.ac.in"
+      "name": "Lalit Kumar Vashishtha", "email": "vashishthafcs@kiit.ac.in"
+      "name": "Leena Das", "email": "ldasfcs@kiit.ac.in"
+      "name": "Lipika Dewangan", "email": "lipika.dewanganfcs@kiit.ac.in"
+      "name": "Lipika Mohanty", "email": "lipika.mohantyfcs@kiit.ac.in"
+      "name": "Madhabananda Das", "email": "mndas_prof@kiit.ac.in"
+      "name": "Mahendra Kumar Gourisaria", "email": "mkgourisariafcs@kiit.ac.in"
+      "name": "Mainak Bandyopadhyay", "email": "mainak.bandyopadhyayfcs@kiit.ac.in"
+      "name": "Mainak Biswas", "email": "mainak.biswasfcs@kiit.ac.in"
+      "name": "Manas Ranjan Biswal", "email": "manas.biswalfcs@kiit.ac.in"
+      "name": "Manas Ranjan Lenka", "email": "manaslenkafcs@kiit.ac.in"
+      "name": "Manas Ranjan Nayak", "email": "manas.nayakfcs@kiit.ac.in"
+      "name": "Mandakini Priyadarshani Behera", "email": "mandakini.beherafcs@kiit.ac.in"
+      "name": "Manoj Kumar Mishra", "email": "manojfcs@kiit.ac.in"
+      "name": "Meghana G Raj", "email": "meghana.rajfcs@kiit.ac.in"
+      "name": "Minakhi Rout", "email": "minakhi.routfcs@kiit.ac.in"
+      "name": "Mohit Ranjan Panda", "email": "mohit.pandafcs@kiit.ac.in"
+      "name": "Monideepa Roy", "email": "monideepafcs@kiit.ac.in"
+      "name": "Mukesh Kumar", "email": "mukesh.kumarfcs@kiit.ac.in"
+      "name": "Murari Mandal", "email": "murari.mandalfcs@kiit.ac.in"
+      "name": "N Biraja Isac", "email": "nbiraja.isacfcs@kiit.ac.in"
+      "name": "Nachiketa Tarasia", "email": "ntarasiafcs@kiit.ac.in"
+      "name": "Naliniprava Behera", "email": "npbeherafcs@kiit.ac.in"
+      "name": "Namita Panda", "email": "npandafcs@kiit.ac.in"
+      "name": "Nibedan Panda", "email": "nibedan.pandafcs@kiit.ac.in"
+      "name": "Nikhilanand Arya", "email": "nikhilanand.aryafcs@kiit.ac.in"
+      "name": "Niranjan Kumar Ray", "email": "niranjan.rayfcs@kiit.ac.in"
+      "name": "Partha Pratim Sarangi", "email": "pp.sarangifcs@kiit.ac.in"
+      "name": "Partha Sarathi Paul", "email": "parthasarathi.paulfcs@kiit.ac.in"
+      "name": "Pinaki Sankar Chatterjee", "email": "pinakifcs@kiit.ac.in"
+      "name": "Prabhu Prasad Dev", "email": "prabhu.devfcs@kiit.ac.in"
+      "name": "Prachet Bhuyan", "email": "pbhuyanfcs@kiit.ac.in"
+      "name": "Pradeep Kandula", "email": "pkandulafcs@kiit.ac.in"
+      "name": "Pradeep Kumar Mallick", "email": "pradeep.mallickfcs@kiit.ac.in"
+      "name": "Prasant Kumar Pattnaik", "email": "patnaikprasantfcs@kiit.ac.in"
+      "name": "Prasenjit Maiti", "email": "prasenjit.maitifcs@kiit.ac.in"
+      "name": "Pratyusa Mukherjee", "email": "pratyusa.mukherjeefcs@kiit.ac.in"
+      "name": "Priyanka Panigrahi", "email": "priyanka.panigrahifcs@kiit.ac.in"
+      "name": "Priyanka Roy", "email": "priyanka.royfcs@kiit.ac.in"
+      "name": "Pushkar Kishore", "email": "pushkar.kishorefcs@kiit.ac.in"
+      "name": "Raghunath Dey", "email": "raghunath.deyfcs@kiit.ac.in"
+      "name": "Rajat Kumar Behera", "email": "rajatkumar.beherafcs@kiit.ac.in"
+      "name": "Rajdeep Chatterjee", "email": "rajdeepfcs@kiit.ac.in"
+      "name": "Rakesh Kumar Rai", "email": "rakesh.raifcs@kiit.ac.in"
+      "name": "Ramakant Parida", "email": "rparidafcs@kiit.ac.in"
+      "name": "Rinku Datta Rakshit", "email": "rinku.rakshitfcs@kiit.ac.in"
+      "name": "Ronali Padhy", "email": "ronali.padhyfcs@kiit.ac.in"
+      "name": "Roshni Pradhan", "email": "roshni.pradhanfcs@kiit.ac.in"
+      "name": "Samaresh Mishra", "email": "smishrafcs@kiit.ac.in"
+      "name": "Sambit Praharaj", "email": "sambit.praharajfcs@kiit.ac.in"
+      "name": "Sampriti Soor", "email": "sampriti.soorfcs@kiit.ac.in"
+      "name": "Sankalp Nayak", "email": "sankalp.nayakfcs@kiit.ac.in"
+      "name": "Santos Kumar Baliarsingh", "email": "santos.baliarsinghfcs@kiit.ac.in"
+  
+
+
+ "How is the academic session divided?",
+  "output": "Each academic session is divided into two regular semesters: an Autumn Semester (normally July-November) and a Spring Semester (normally December-May). There is also a vacation semester (Summer) of nearly 6-8 weeks duration."
+
+
+ "What is included in the Academic Calendar?",
+  "output": "The Academic Calendar includes the schedule of academic activities for a session, such as dates of registration, examinations, semester breaks, etc."
+
+
+ "How are course credits assigned?",
+  "output": "Credits are assigned based on the following general pattern: one credit for each lecture/tutorial period and half a credit per hour for each laboratory, practical, project, or sessional."
+
+
+ "What are the credit requirements for a B.Tech. degree?",
+  "output": "To qualify for a B.Tech. degree, a student must complete the required credits as prescribed in the curriculum. The general credit requirements are: 155 credits for B.Tech. in an engineering major discipline, 169 credits for B.Tech. with Minor, and 164 credits for B.Tech. with Honors."
+
+
+ "What is the credit requirement for B.Tech. with a Minor?",
+  "output": "The total credit requirement for B.Tech. with a Minor is 169 credits, which includes 155 credits for B.Tech. and 14 additional credits for minor course work."
+
+
+ "What is the credit requirement for B.Tech. with Honors?",
+  "output": "The total credit requirement for B.Tech. with Honors is 164 credits, which includes 155 credits for B.Tech. and 9 additional credits for Honors course work."
+
+
+ "What are the credit requirements for Computer Science & Communication Engineering and Computer Science & System Engineering?",
+  "output": "The credit requirements for Computer Science & Communication Engineering and Computer Science & System Engineering are 156 and 154 credits, respectively."
+
+
+ "What are the group-wise credit requirements for a B.Tech. degree?",
+  "output": "The group-wise credit requirements are: Humanities and Social Sciences (HS) - 12 credits, Basic Sciences (BS) - 30 credits, Engineering Sciences (ES) - 19 credits, Program Core (PC) - 59 credits, Program Electives (PE) - 15 credits, Open Electives - 6 credits, Industry Internship - 4 credits, Graduation Requirements - 155 credits."
+
+
+ "Who approves the syllabus for a B.Tech. Programme?",
+  "output": "Every B.Tech. Programme has a curriculum and syllabus approved by the Academic Council."
+
+
+ "Who recommends the syllabus for undergraduate courses?",
+  "output": "The Board of Studies of the school will discuss and recommend the syllabus of all undergraduate courses offered by the school before submitting it to the Academic Council for consideration and approval."
+
+
+ "Who holds the copyright for the approved syllabus?",
+  "output": "For all approved courses, the copyright will be with KIIT."
+
+
+ "Are students required to attend all classes?",
+  "output": "Yes, students are required to attend all the classes (Lectures, Tutorials, Laboratories, Sessional, Workshops, etc.) for which they have been registered."
+
+
+ "How is attendance calculated for lectures, tutorials, or practical classes?",
+  "output": "For attendance calculation, every scheduled lecture, tutorial, or practical class will count as one unit irrespective of the number of contact hours."
+
+
+ "What happens if a student's attendance falls below 75%?",
+  "output": "A student will be debarred from appearing in an end semester examination if their attendance falls below 75% and will be awarded an ‘F’ grade in that course."
+
+
+ "What is the procedure for taking a leave of absence for up to two weeks in a semester?",
+  "output": "For a leave of absence not exceeding two weeks in a semester, prior application for leave must be submitted to the respective Dean, stating the reasons for the leave and including supporting documents. The Dean may condone the absence if prior application was not possible due to unavoidable reasons."
+
+
+ "What is the procedure if a leave of absence exceeds two weeks?",
+  "output": "If the leave of absence exceeds two weeks, an application for grant of leave must be submitted through the Dean to the Director with supporting documents for sanction of leave."
+
+
+ "Can leave of absence be counted for attendance?",
+  "output": "No, the leave of absence will not be condoned for attendance."
+
+
+ "Who should a student inform about their absence?",
+  "output": "It is the responsibility of the student to inform the Warden of the hostel in which they reside and the concerned instructors regarding their absence before availing the leave."
+
+
+ "Can any attendance requirements be relaxed?",
+  "output": "In exceptional circumstances, the Director, in consultation with the Chairman, Academic Council, may relax any of the attendance requirements."
+
+ "What are the components of theory course assessment?",
+  "output": "The theory course assessment consists of the following components:\n1. Activities (30%): Includes surprise quizzes, assignments, projects, practical tests, viva voce, etc.\n2. Mid-semester exam (20%): A one-hour duration examination.\n3. End-semester exam (50%): A three-hour duration examination."
+
+
+ "What is the general practice for practical course assessments?",
+  "output": "The general practice for practical courses follows continuous assessment (60%) and end semester exam (40%)."
+
+
+ "How is assessment conducted in sessional courses?",
+  "output": "In sessional courses, 100% assessment is made in the class."
+
+
+ "Who decides the detailed break-up of marks for assessment?",
+  "output": "The detailed break-up of marks for assessment components is announced and recorded in the first Course Committee meeting. The Dean (Academics) is informed about the scheme of evaluation of a course after the first Course Committee meeting."
+
+
+ "Can students request make-up activities for missed regular activities?",
+  "output": "Yes, students who have missed regular activities for valid reasons may request for make-up activities to the respective course instructor. If the course instructor is satisfied with the provided explanation, they may conduct the make-up activities."
+
+
+ "Can students request a make-up examination for missed mid-semester, laboratory, or sessional exams?",
+  "output": "Yes, students who have missed mid-semester, laboratory, or sessional examinations for valid reasons may request a make-up examination from the course instructor within ten days from the date of the missed test. If the instructor is satisfied with the explanation, they may conduct the make-up exam either during the makeup exam slots in the Academic Calendar or at a convenient time. If not satisfied, the instructor may reject the application."
+
+
+ "How is the performance of a student in a course denoted?",
+  "output": "The performance of a student in a course is denoted by a letter grade. The letter grades, their interpretation, and corresponding grade points are provided in Table 3."
+
+
+ "What does the I-grade indicate?",
+  "output": "The I-grade indicates a temporary grade and that a part of the total requirement of the course remains to be completed. It shows that the student has done satisfactory work in all other aspects of the course."
+
+
+ "What must a student do if they receive an I-grade?",
+  "output": "The student must complete the pending requirement within a prescribed date, generally within one month from the start of the following regular semester, to convert the I-grade into a regular grade. If not completed within this period, the I-grade automatically converts to an F grade."
+
+
+ "What are the letter grades and their corresponding grade points?",
+  "output": "The letter grades and their corresponding grade points are:\n- O (90-100): 10 (Outstanding)\n- A (80-89): 9 (Excellent)\n- B (70-79): 8 (Very Good)\n- C (60-69): 7 (Good)\n- D (50-59): 6 (Average)\n- E (40-49): 5 (Below Average)\n- F (Below 40): 0 (Fail)\n- I: Incomplete"
+
+
+ "What information does the grade sheet issued at the end of the semester contain?",
+  "output": "The grade sheet contains:\n1. The course number, course name, and credits for each registered course.\n2. The letter grade obtained in each course.\n3. The total number of credits earned by the student up to that semester.\n4. Semester Grade Point Average (SGPA) for that semester.\n5. Cumulative Grade Point Average (CGPA) of all courses taken from the first semester."
+
+
+ "What is included in the Final Grade Report (FGR)?",
+  "output": "The Final Grade Report (FGR) contains details of all the courses taken by the student, mentioning the overall CGPA, and is issued along with the degree certificate."
+
+
+ "What is SGPA and how is it calculated?",
+  "output": "Semester Grade Point Average (SGPA) is a weighted average of grades in all courses done by the student in a given semester. It is calculated using the formula:\nSGPA = (Σ (C × GP)) / ΣC\nwhere C is the credits of a subject item and GP is the corresponding grade point. SGPA is taken over all registered subjects, including those with F grades, but excluding courses with I grades."
+
+
+ "What is the purpose of the summer vacation semester courses?",
+  "output": "The summer vacation semester courses are offered to clear the backlog courses of students and for students who wish to spend a semester off-campus based on the availability of course instructors."
+
+
+ "Can a student register for multiple vacation semester courses in a semester?",
+  "output": "No, a student should not register for more than three vacation semester courses during a particular vacation semester."
+
+
+ "Is there a fee for registering in the vacation semester?",
+  "output": "Yes, a student has to pay a fee for each credit registered in the vacation semester."
+
+
+ "How is the assessment procedure for vacation semester courses conducted?",
+  "output": "The assessment procedure for a vacation semester course is similar to that of a regular semester course."
+
+
+ "Can a student withdraw from a vacation semester course?",
+  "output": "No, withdrawal from a vacation semester course is not permitted."
+
+
+ "What is the internship requirement for B.Tech. students?",
+  "output": "As part of the B.Tech. curriculum, students are required to do an industrial internship in India for a minimum period of 4 weeks during the summer vacation following the 4th semester or any subsequent vacation before the final semester. In exceptional situations, students may do the internship at other time periods with approval from the Dean (Academics)."
+
+
+ "Where should the internship be conducted?",
+  "output": "The internship must be done in a technology-oriented public/private sector company/industry or in reputed research/academic organizations such as CSIR, DRDO, BARC, IIT."
+
+
+ "Are internships in start-up companies considered?",
+  "output": "No, internships with start-up companies that are not registered yet will not be considered."
+
+
+ "How many credits are awarded for a completed internship?",
+  "output": "On successful completion of the internship, two credits will be awarded to the student, which will be counted towards SGPA/CGPA calculations."
+
+
+ "Does KIIT have a semester exchange program?",
+  "output": "Yes, KIIT has a memorandum of understanding (MoU) for semester exchange visits with eminent academic institutions in India and abroad."
+
+
+ "How are students selected for semester exchange visits?",
+  "output": "Selection of candidates for semester exchange visits is done through a competitive process."
+
+
+ "Can students go on exchange visits for more than one semester?",
+  "output": "Yes, selected students can go on exchange visits for one or two semesters. If a student goes on an exchange visit for two semesters, these two semesters can be contiguous."
+
+
+ "With which institutions can students undertake semester exchange programs?",
+  "output": "Semester exchange programs can only be undertaken with those institutions that have an MoU with KIIT."
+
+
+ "How are credits and grades from semester exchange visits converted?",
+  "output": "Credits and grades earned during semester exchange visits will be converted to KIIT equivalent credits and grades as per the Academic Regulations and approved conversion criteria."
+
+
+ "What are the promotion requirements for a B.Tech. student?",
+  "output": "A student needs to satisfy the following conditions to be eligible for promotion from 1st to 2nd year: \n1. The number of backlog subjects should not be more than 5 (five) at the 1st year considering both semesters in an academic year. \n2. No backlog at any stage below 4th year (i.e., (i-1)th or (i-2)th year). \n3. No suspension for a specified period by the University disciplinary committee and should not have been denied the privileges of a Regular Student at the time of admissions to higher levels in a program."
+
+
+ "What are the degree requirements for a B.Tech. student?",
+  "output": "To qualify for a B.Tech. degree, a student must: \n1. Complete the credit requirements for the degree as laid down in the prescribed curriculum with a minimum of D grade in every theory and a minimum of C grade in every practical & sessional item. \n2. Secure a CGPA of 6.0 or higher at the end of the semester in which all the program requirements are completed. \n3. Clear all institutional and hostel dues of the University. \n4. Have no disciplinary action pending against him/her."
+
+
+ "Can a student apply for re-admission if academic terms are not satisfied?",
+  "output": "Yes, students whose academic program is terminated under any of the conditions may appeal to the Chairperson, Academic Council through Tutor Mentor and Dean (Academics) for mercy and a second chance to re-enroll in the program. The Academic Council may make an appropriate decision on such applications."
+
+
+ "What is considered a registered semester in a B.Tech. program?",
+  "output": "A semester in which a student has registered for a course will be called a registered semester, subject to the following conditions: \n(a) Only the first and second semesters of an academic year can be registered semesters. The summer semester will not be considered as a registered semester. \n(b) The semester when a student has been granted withdrawal or leave will not be considered a registered semester. \n(c) The semester when a student is suspended from the Institute on disciplinary grounds will not be counted toward the number of registered semesters. \n(d) The summer semesters falling in the permitted registered semesters shall be available for earning credits."
+
+
+ "What is the maximum permissible number of registered semesters for a B.Tech. degree?",
+  "output": "The maximum permissible number of registered semesters for completing all degree requirements for a B.Tech. degree is twelve (12). If a student opts for the slow-paced program, the maximum permissible number of registered semesters shall be increased by two semesters."
+
+
+ "Can a student take a semester break or temporarily withdraw from the program?",
+  "output": "Yes, a student may be permitted by the Dean (Academics) to obtain a semester break or temporary withdrawal from the program for a semester or a longer duration for personal or valid health or valid reasons. Normally, a student will be permitted to withdraw from the program only for a maximum continuous or permitted duration."
+
+
+ "What is the purpose of scholarships at KIIT?",
+  "output": "Various types of scholarships have been instituted by the University for encouraging meritorious students. The quantum and period of scholarships are subject to change from time to time as decided by the Academic Council."
+
+
+ "What is the Pradyumna Bal Memorial Scholarship?",
+  "output": "The Pradyumna Bal Memorial Scholarship is instituted in the memory of Late Pradyumna Kishore Bal, Founder President of KIIT. Every year, two economically challenged but meritorious students are provided completely free education under this scholarship scheme, which covers college fees, hostel dues, books, and other ancillary expenses."
+
+
+ "Who is eligible for the KIIT Merit Scholarship?",
+  "output": "KIIT Merit Scholarship is awarded to the semester toppers (1st, 2nd & 3rd position) of each semester in each branch for a period of six months. The quantum of scholarships is subject to change from time to time as decided by the Academic Council."
+
+
+ "What is the KIITEE Merit Scholarship?",
+  "output": "KIITEE Merit Scholarship is awarded to KIITEE General Rank holders from rank 1 to 1000 for a period of 4 years, during the study period at Kalinga Institute of Industrial Technology (KIIT), Deemed to be University. KIITEE Merit Scholarship holders will not be awarded with KIIT Merit Scholarship. The quantum of scholarships is subject to change from time to time as decided by the Academic Council."
+
+
+ "What are the terms and conditions for availing a scholarship at KIIT?",
+  "output": "A student must satisfy the following conditions:\n1. Maintain at least 75% attendance in each semester (issued by Dean Academics).\n2. Secure at least 7.5 SGPA in each semester and clear all papers in a single sitting (no back paper), issued by the Controller of Examinations.\n3. Not indulge in any indiscipline activity, certified by the Director, SA."
+
+
+ "Are scholarships from private organizations regulated by KIIT?",
+  "output": "In cases of scholarships provided by private organizations, the rates and terms and conditions for the award of such scholarships shall be as approved by the Academic Council."
+
+
+ "How are scholarships for SC/ST students determined?",
+  "output": "In the case of SC/ST scholarships, the award of scholarships and other benefits will be in accordance with the rules framed or amended by the Government of India/Odisha from time to time."
+
+
+ "Who handles the administration of scholarship awards at KIIT?",
+  "output": "The Dean (Academics) will lay down the administrative procedures to be followed for making the award of various scholarships and maintenance of relevant records in this regard. The number and details of students selected for various scholarships will be reported to the Academic Council."
+
+
+ "What are the library facilities available in the School of Computer Engineering at KIIT?",
+  "output": "The School of Computer Engineering Library operates 24x7, except on three national holidays. It has a collection of 16046 reference books, 145,713 textbooks with 21053 titles, 26,626+ e-books, 28,000+ e-journals, 46 e-databases, 42 PhD theses in the Shodhganga repository, 521 CD-ROMs, and 11 multilingual newspapers. The library provides access to e-journals, databases, and tools like IEL online, Science Direct (Comp. Sc.), EBSCO, Taylor and Francis, and Proquest."
+
+
+ "What bibliographic databases are available in the School of Computer Engineering Library?",
+  "output": "Bibliographic databases like Scopus, Web of Science, and Patent Database (Derwent Innovation) are available. Other tools include Summon discovery tool, Endnote, and Turnitin anti-plagiarism software."
+
+
+ "How can users access digital library resources at KIIT?",
+  "output": "Users can access the Central Library Web Portal, University publications, and e-content through the University repository on campus or via remote access. The library is fully automated through LIBSYS-10 LMS software. It also has a photocopy facility."
+
+
+ "Where can students find more details about the KIIT library services?",
+  "output": "More details about the KIIT library services can be accessed at: https://library.kiit.ac.in/"
+
+
+ "What recreational facilities are available at KIIT?",
+  "output": "KIIT has a rich sporting culture with modern infrastructure, including national and international coaches. Various disciplines are supported to nurture students' talents. Recreational facilities for several sports are mentioned in the Appendix-C. More details are available at: https://kiit.ac.in/campuslife/sports/"
+
+
+ "What training and placement services does KIIT offer?",
+  "output": "KIIT provides unrivaled training and placement opportunities. The Training & Placement Office is located in Kolab Campus. Training includes:\n1. Industrial Internship: Helps students work in industry environments with real-life problems.\n2. Pre-Placement Training: Covers technical and non-technical areas like Group Discussions, Personal Interviews, English, Mathematics, and Reasoning.\n3. Campus Selection: Conducts placement-related activities like campus recruitment tests."
+
+
+ "Where can students find more details about training and placement at KIIT?",
+  "output": "More details can be accessed at: https://kiit.ac.in/training-placement/"
+
+
+ "What healthcare facilities are available at KIIT?",
+  "output": "KIIT has a 1750-bedded super-specialty hospital, Kalinga Institute of Medical Sciences (KIMS), and the Medical College. It is a fully computerized hospital with ERP, Wi-Fi, IP Phone, and CCTV services. Facilities include 108 air-conditioned cabins, air-conditioned sharing cabins, 16 state-of-the-art operation theatres, a modular operation theatre, a 24x7 Blood Bank, a State-of-the-Art Central Laboratory accredited by NABL, and a 24x7 Emergency/Casualty Ambulance service."
+
+
+ "Where can students find more details about KIIT healthcare services?",
+  "output": "More details can be accessed at: https://kiit.ac.in/healthcare/"
+
+
+ "What is the KIIT Student Activity Centre (KSAC)?",
+  "output": "KIIT Student Activity Centre (KSAC) aims to bring all students together under one roof for extra-curricular activities. It ensures a holistic environment for sharing cultural, creative, and innovative ideas. KSAC governs various Student Societies in music, dance, painting, photography, film, designing, theatre, fashion, quiz, gaming, robotics, and more. It also organizes major events like KIITFEST, Annual Techno-cultural fest, and TEDxKIITUniversity. More details can be found at: https://ksac.kiit.ac.in/"
+
+
+ "What types of events does KSAC organize?",
+  "output": "KSAC organizes major student events such as KIITFEST (Annual Techno-cultural fest), KIIT International MUN, KIIT Hockey Men’s World Cup, Asian Parliamentary Debate, and TEDxKIITUniversity. It also conducts online engagement activities, workshops, and community outreach programs throughout the year."
+
+
+ "Where can I find more details about the KIIT Student Activity Centre?",
+  "output": "More details about KSAC can be found at: https://ksac.kiit.ac.in/"
+
+
+ "What is the purpose of the KIIT Student Counselling Cell?",
+  "output": "The KIIT Student Counselling Cell provides guidance to students in different areas, helping them attain overall competency and handle career and personal challenges. It offers solution-focused and student-centered approaches. It also helps students gain international academic exposure through exchange programs, internships, and cultural engagement."
+
+
+ "Where can I find more details about the KIIT Student Counselling Cell?",
+  "output": "More details about the KIIT Student Counselling Cell are available at: https://kiit.ac.in/student-counselling/"
+
+
+ "What is the function of the KIIT Compliance Cell?",
+  "output": "The Compliance Cell at KIIT provides single-window assistance for student grievances, complaints, and requests. Some requests are directly resolved, while others are forwarded to the appropriate department or post."
+
+
+ "How should a student submit a request to the KIIT Compliance Cell?",
+  "output": "Students should mention their request clearly, specifying Full Name, Roll No, Branch, Semester, and Contact No. The application should be sent to the designated Email ID or through their Tutor Mentor to the Dean/Director."
+
+
+ "Where can students find the point of contact for different redressal requirements?",
+  "output": "The points of contact for different redressal requirements are mentioned in Appendix - G."
+
+
+ "What is the ICT Cell in KIIT?",
+  "output": "The School ICT Cell is managed by an ICT Manager with a few staff members deputed from the University ICT Cell. It is responsible for managing ICT-related activities such as software, hardware, network, and server maintenance."
+
+
+ "What are the responsibilities of the ICT Manager at KIIT?",
+  "output": "The ICT Manager is responsible for:\n1. Maintaining inventory of supplies, placing orders, and recording maintenance activities.\n2. Monitoring downloaded files and programs to prevent malware and spyware.\n3. Providing ICT installation and support in classrooms, buildings, and offices.\n4. Filing reports on software, hardware, and related equipment.\n5. Diagnosing and fixing hardware/software issues or coordinating with engineers.\n6. Conducting regular maintenance and performing software backups.\n7. Ensuring proper maintenance and servicing of University equipment and facilities."
+
+
+ "What measures does the ICT Cell take to prevent malware and spyware?",
+  "output": "The ICT Cell monitors files and programs downloaded on computers to ensure that spyware, malware, and other dangerous programs are not installed."
+
+
+ "How does the ICT Cell support ICT installation and maintenance?",
+  "output": "The ICT Cell provides ICT installation and support in classrooms, buildings, faculty chambers, and offices. It also conducts regular maintenance and software backups."
+
+
+ "Where can I find more details about the ICT Cell at KIIT?",
+  "output": "More details about the ICT Cell can be accessed at: https://kiit.ac.in/campuslife/ict/"
+
+
+ "Who is the Director General of KIIT?",
+  "output": "Dr. Biswajit Sahoo is the Director General of KIIT. Contact: 9437292507, Email: director.cs@kiit.ac.in"
+
+
+ "Who is the Dean of Research at KIIT?",
+  "output": "Dr. Suresh Chandra Satapathy is the Dean of Research at KIIT. Contact: 9000249712, Email: dean.research.cs@kiit.ac.in"
+
+
+ "Who is the Dean of Academics for Computer Science at KIIT?",
+  "output": "Dr. Bhabani Sankar Prasad Mishra is the Dean of Academics (CS) at KIIT. Contact: 9438073401, Email: dean.cs@kiit.ac.in"
+
+
+ "Who is the Dean of Academics for Information Technology at KIIT?",
+  "output": "Dr. Arup Abhinna Acharya is the Dean of Academics (IT) at KIIT. Contact: 9610580799, Email: dean.it@kiit.ac.in"
+
+
+ "Who is the Dean of Academics for CC & CSM at KIIT?",
+  "output": "Dr. Amulya Ratna Swain is the Dean of Academics (CC & CSM) at KIIT. Contact: 9439627127"
+
+
+ "Who is the Program Head of M.Tech at KIIT?",
+  "output": "Dr. Hrudyanu Kumar Tripathy is the Program Head of M.Tech at KIIT. Contact: 9437843281, Email: phmtech.cs@kiit.ac.in"
+
+
+ "Who is the Controller of Examinations at KIIT?",
+  "output": "Dr. Anuja Kumar Acharya is the Controller of Examinations at KIIT. Contact: 9438520431, Email: dycoce.cs@kiit.ac.in"
+
+
+ "Who is the Assistant CoE-1 at KIIT?",
+  "output": "Mrs. Bhawisati Sahoo is the Assistant CoE-1 at KIIT. Contact: 9437977095, Email: ascoe.cs@kiit.ac.in"
+
+
+ "Who is the Assistant CoE-2 at KIIT?",
+  "output": "Mr. Sujoy Datta is the Assistant CoE-2 at KIIT. Contact: 8093713885, Email: ascoe.cs@kiit.ac.in"
+
+
+ "Who is the Assistant CoE-3 at KIIT?",
+  "output": "Dr. Subhashis Sahoo is the Assistant CoE-3 at KIIT. Contact: 9437800206, Email: fce.examinel.cs@kiit.ac.in"
+
+
+ "Who is the Assistant CoE-4 at KIIT?",
+  "output": "Mr. Lalit Kumar Vakshasthia is the Assistant CoE-4 at KIIT. Contact: 9668224395"
+
+
+ "Who is the Associate Dean (T&P) at KIIT?",
+  "output": "Dr. Tanmaya Swain is the Associate Dean (T&P) at KIIT. Contact: 9438938958, Email: tnp.cs@kiit.ac.in"
+
+
+ "Who is the Administrative Officer at KIIT?",
+  "output": "Mr. Partha Sarathi Mohapatra is the Administrative Officer at KIIT. Contact: 9830265038, Email: partha.mohapatra@kiit.ac.in"
+
+
+ "Who is the Faculty In-Charge for Alumni Relations at KIIT?",
+  "output": "Dr. Satarupa Mohanty is the Faculty In-Charge for Alumni Relations at KIIT. Contact: 9124941515, Email: satarupa.mohanty@kiit.ac.in"
+
+
+ "Who is the Faculty In-Charge for Governance at KIIT?",
+  "output": "Mrs. Suchismita Das is the Faculty In-Charge for Governance at KIIT. Contact: 8763797944, Email: suchismita@kiit.ac.in"
+
+
+ "Who is the Faculty In-Charge for Library Enrichment at KIIT?",
+  "output": "Dr. Manas Ranjan Lenka is the Faculty In-Charge for Library Enrichment at KIIT. Contact: Email: manaslenka@kiit.ac.in"
+
+
+ "Who is the Faculty In-Charge for Quality Assurance at KIIT?",
+  "output": "Dr. Smruti Swaroop Rautray is the Faculty In-Charge for Quality Assurance at KIIT. Contact: 8763999474, Email: qacel.cs@kiit.ac.in"
+
+
+ "Who is responsible for Website & Social Media Management at KIIT?",
+  "output": "Dr. Niranjan Kumar Ray, Dr. Mohit Ranjan Panda, and Ms. Sanntwana Sagnika are responsible for Website & Social Media Management at KIIT. Contacts: 9861361486, 9777999330, 8093455506. Emails: qacel.cs@kiit.ac.in, webmaster.sce@kiit.ac.in."
+
+
+ "Who is in charge of Student Affairs at KIIT?",
+  "output": "Dr. Manjusha Pandey, Dr. Leena Das, Ms. Rosini Pradhan, and Mr. Sankalp Nayak are in charge of Student Affairs at KIIT. Contacts: 7750873284, 9436953944, 9853261679. Emails: studentactivity.cs@kiit.ac.in."
+
+
+ "Who handles Student Affairs (NCC & NSS) at KIIT?",
+  "output": "Mr. R. N. Ramakantan Parida, Dr. Minakhi Rout, and Dr. Rajat Kumar Behera handle Student Affairs (NCC & NSS) at KIIT. Contacts: 7978037675, 9861108580, 9860672882. Emails: nss.cs@kiit.ac.in, rajatkumar.behera@kiit.ac.in."
+
+
+ "Who is responsible for International Student Affairs (Academics) at KIIT?",
+  "output": "Mr. Kumar Devadutta and Dr. Mainak Bandyopadhyay are responsible for International Student Affairs (Academics) at KIIT. Contacts: 9437072128, 8009387402. Emails: kdevadutta@kiit.ac.in, mainak.bandyopadhyayfcs@kiit.ac.in."
+
+
+ "Who is in charge of Time Table Governance at KIIT?",
+  "output": "Dr. Ajay Kumar Jena and Dr. Abhaya Kumar Sahoo are in charge of Time Table Governance at KIIT. Contacts: 9437232086, 9861434456. Emails: ajay.jena@kiit.ac.in, abhaya.sahoo@kiit.ac.in."
+
+
+ "Who handles Guest Lecture Engagement at KIIT?",
+  "output": "Dr. Hruduya Kumar Tripathy and Dr. Pradeep Kumar Mallick handle Guest Lecture Engagement at KIIT. Contacts: 9437438123, 8895885152. Emails: hktripathyfcs@kiit.ac.in, pradeep.mallickfcs@kiit.ac.in."
+
+
+ "Who is responsible for Industry & Institute Collaboration at KIIT?",
+  "output": "Dr. Rajdeep Chatterjee and Dr. Saurabh Bilgaiyan are responsible for Industry & Institute Collaboration at KIIT. Contacts: 9040820506, 9040236696. Emails: rajdeepfcs@kiit.ac.in, saurabh.bilgaiyanfcs@kiit.ac.in."
+
+
+ "Who is the Project Co-ordinator (UG) at KIIT?",
+  "output": "Dr. Jagannath Singh and Dr. Sushruta Mishra are the Project Co-ordinators (UG) at KIIT. Contacts: 9861085883, 7751995740. Emails: jagannath.singh@kiit.ac.in, sushruta.mishrafcs@kiit.ac.in."
+
+
+ "Who is the Vice Chancellor of KIIT?",
+  "output": "Dr. Sasmita Rani Samanta is the Vice Chancellor of KIIT. Contact: 9437035188. Email: vicechancellor@kiit.ac.in."
+
+
+ "Who is the Pro-Vice Chancellor of KIIT?",
+  "output": "Dr. Saranjeet Singh is the Pro-Vice Chancellor of KIIT. Contact: 9439362572. Email: provicechancellor@kiit.ac.in."
+
+
+ "Who is the Registrar of KIIT?",
+  "output": "Dr. Jnyana Ranjan Mohanty is the Registrar of KIIT. Contact: 7978819705. Email: registrar@kiit.ac.in."
+
+
+ "Who is the Controller of Examinations at KIIT?",
+  "output": "Dr. Santosh Kumar Pani is the Controller of Examinations at KIIT. Contact: 9861080635. Email: coe@kiit.ac.in."
+
+
+ "Who is the Director of Student Affairs at KIIT?",
+  "output": "Dr. Samarash Mishra is the Director of Student Affairs at KIIT. Contact: 9437189722. Email: director.saff@kiit.ac.in."
+
+
+ "Who is the Director of Administration at KIIT?",
+  "output": "Mr. Prasatt K. Mohapatra is the Director of Administration at KIIT. Contact: 9437020388. Email: plan.admission@kiit.ac.in."
+
+
+ "Who is the Director of Finance at KIIT?",
+  "output": "Dr. Sucheta Priyabadini is the Director of Finance at KIIT. Contact: 9831049367. Email: sucheta@kiit.ac.in."
+
+
+ "Who is the Director of Student Counselling at KIIT?",
+  "output": "Dr. Sucheta Priyabadini is the Director of Student Counselling at KIIT. Contact: 9937220209. Email: sucheta@kiit.ac.in."
+
+
+ "Who is the Director General of Sports & Physical Education at KIIT?",
+  "output": "Dr. Gaganendu Dash is the Director General of Sports & Physical Education at KIIT. Contact: 9437020444. Email: sports.kiit@gmail.com."
+
+
+ "Who is the Director of Hostel at KIIT?",
+  "output": "Mr. Sudhir Kumar Rath is the Director of Hostel at KIIT. Contact: 9937220251. Email: srath@kiit.ac.in."
+
+
+ "Who is the Chief Librarian at KIIT?",
+  "output": "Dr. Bijayakiran Routray is the Chief Librarian at KIIT. Contact: 9937401113. Email: bijayakiran@kiit.ac.in."
+
+
+ "Who is the Chief Proctor of KIIT?",
+  "output": "Mr. Pradeep K. Patnaik is the Chief Proctor of KIIT. Contact: 9437052844. Email: matadip.mendez32@gmail.com."
+
+
+ "Who is the Deputy Director of Student Services at KIIT?",
+  "output": "Dr. Shyam Sundar Behura is the Deputy Director of Student Services at KIIT. Contact: 9173858677. Email: shyam.behura@kiit.ac.in."
+
+
+ "Who is the Dean of International Student Relations at KIIT?",
+  "output": "Dr. Arati Patra is the Dean of International Student Relations at KIIT. Contact: 9439285659. Email: aratipatra@kiit.ac.in."
+
+
+ "Who is the NSS Programme Coordinator at KIIT?",
+  "output": "Dr. Kajal Parashar is the NSS Programme Coordinator at KIIT. Contact: 9438780347. Email: kparashar@kiit.ac.in."
+
+
+ "Who is the NCC Officer at KIIT?",
+  "output": "Dr. Tribikram Mohanty is the NCC Officer at KIIT. Contact: 9437320526. Email: tribikram@kiit.ac.in."
+
+
+ "Who is the Joint Registrar (Administration) at KIIT?",
+  "output": "Mr. Pratap K. Chamupaty is the Joint Registrar (Administration) at KIIT. Contact: 9437064771. Email: pkc@kiit.ac.in."
+
+
+ "Who is the Deputy Director of Girls' Hostel & Student Affairs at KIIT?",
+  "output": "Mrs. Jayanti Nath is the Deputy Director of Girls' Hostel & Student Affairs at KIIT. Contact: 8895585533. Email: jayanti.nath@kiit.ac.in."
+
+
+ "Who is the General Manager of Systems & ICT at KIIT?",
+  "output": "Mr. Kalpataru Nayak is the General Manager of Systems & ICT at KIIT. Contact: 9861299281. Email: kalpataru.nayak@kiit.ac.in."
+
+
+ "What recreational facilities are available in Campus 3 for girls?",
+  "output": "Indoor Hall (Multi-purpose), 3 Badminton Courts, Multi Gym, Billiards and Snookers, Table Tennis, Swimming Pool (Indoor), Chess, Carom, Yoga Hall."
+
+
+ "What recreational facilities are available in Campus 5?",
+  "output": "Multi Gym, Swimming Pool (Indoor), Cricket Ground, Football Ground."
+
+
+ "What recreational facilities are available in Campus 6?",
+  "output": "Swimming Pool (Outdoor), Multi Gym."
+
+
+ "What recreational facilities are available in Campus 7?",
+  "output": "Billiards and Snooker Hall, Table Tennis Hall, Multi Gym, Swimming Pool (Outdoor), Yoga Hall."
+
+
+ "What recreational facilities are available in Campus 8?",
+  "output": "Basketball Court."
+
+
+ "What recreational facilities are available in Campus 9?",
+  "output": "3 Lawn Tennis Courts (Synthetic & Floodlights), 4 Volleyball Courts (Synthetic & Floodlights)."
+
+
+ "What recreational facilities are available in Campus 11?",
+  "output": "2 Basketball Courts (Synthetic), 2 Lawn Tennis Courts, Indoor Hall (Multi-purpose), 2 Badminton Courts."
+
+
+ "What recreational facilities are available in Campus 12?",
+  "output": "1 Basketball Court (Synthetic), 1 Lawn Tennis Court (Synthetic), Indoor Hall (Multi-purpose), 3 Badminton Courts, Multi Gym, Swimming Pool (Outdoor), Table Tennis Hall, Billiards and Snookers Hall, Yoga Center."
+
+
+ "What recreational facilities are available in Campus 13?",
+  "output": "KIIT Cricket Stadium (International Standard with Turf Wickets, Flood Lights with 2000 seating capacity & 7 Practice outdoor nets), Hockey Stadium (Astroturf & Flood Lights with 5000 seating capacity), Football Stadium/Rugby Stadium (Grass with 3000 seating capacity), Baseball Ground, Track & Field, Biju Patnaik Indoor Stadium (Multi-purpose with Handball, Volleyball, Basketball, Badminton, Kabaddi, Kho Kho, Shooting, Cricket Nets, Weightlifting, Power Lifting, Judo, Fencing & Wrestling facilities)."
+
+
+ "What recreational facilities are available in Campus 15?",
+  "output": "2 Basketball Courts (Synthetic), Indoor Hall (Multi-purpose), Multi Gym, Swimming Pool (Outdoor)."
+
+
+ "What are the general recreational facilities mentioned in the Student Hand Book of Information?",
+  "output": "Multi Gym, Swimming Pool (Outdoor), Squash Hall, Table Tennis Hall, Billiards and Snookers Hall, Kabaddi Grounds, 2 Boxing Rings (International Standard)."
+
+
+ "What is the fee for obtaining a Semester Grade Report?",
+  "output": "First copy: Nil, Duplicate copy: Rs. 150, Issuing Authority: Dean"
+
+
+ "What is the fee for obtaining a Final Grade Report?",
+  "output": "First copy: Nil, Duplicate copy: Rs. 500, Issuing Authority: Dean"
+
+
+ "What is the fee for obtaining a Provisional Certificate?",
+  "output": "First copy: Nil, Duplicate copy: Rs. 500, Issuing Authority: Registrar"
+
+
+ "What is the fee for obtaining a Migration Certificate?",
+  "output": "First copy: Rs. 200, Duplicate copy: Rs. 300, Issuing Authority: Registrar"
+
+
+ "What is the fee for obtaining a Final Degree Certificate?",
+  "output": "First copy: Nil, Duplicate copy: Rs. 500, Issuing Authority: Registrar"
+
+
+ "What is the fee for obtaining a Transcript Certificate?",
+  "output": "First copy: Rs. 500, Duplicate copy: Rs. 500, Issuing Authority: Registrar"
+
+
+ "What is the fee for obtaining a Transfer/College Leaving Certificate?",
+  "output": "First copy: Rs. 500, Duplicate copy: Rs. 500, Issuing Authority: Dean"
+
+
+ "What is the fee for obtaining a Rank Certificate?",
+  "output": "First copy: Rs. 500, Duplicate copy: Rs. 500, Issuing Authority: Dean"
+
+
+ "What is the fee for obtaining an Attempt Certificate?",
+  "output": "First copy: Rs. 500, Duplicate copy: Rs. 500, Issuing Authority: Dean"
+
+
+ "What is the fee for obtaining a Registration Certificate?",
+  "output": "First copy: Nil, Duplicate copy: Rs. 150, Issuing Authority: Dean"
+
+
+ "How can students apply for certificates or reports?",
+  "output": "Students need to apply through Compliance Cell by emailing compliance.cse@kiit.ac.in with proof of identity and address. The University sends certificates/reports by post upon payment of Rs. 300 (inside India) and $60 (outside India) as postal charges."
+
+
+ "What documents are required for obtaining a duplicate certificate or report?",
+  "output": "1. Photo copy of the lost certificate, if available. 2. Copy of the FIR/Affidavit, if lost. 3. Certificate to be returned, if damaged. 4. Student Photo to be uploaded (Online). 5. Money Receipt."
+
+
+ "How are transcript certificates issued?",
+  "output": "Transcript certificates are issued by submitting a photocopy of FGR/SGR or any semester-end addresses of the Institutes requiring the Transcript."
+
+
+ "Who should be contacted for a Bonafide Certificate for education loan, scholarship, passport, or higher studies?",
+  "output": "School Compliance Cell (compliance.cse@kiit.ac.in)"
+
+
+ "Who handles Railway Concession Pass requests?",
+  "output": "School Compliance Cell (compliance.cse@kiit.ac.in)"
+
+
+ "Where should students apply for Final Grade Reports, Provisional Degree Certificate, Degree Certificate, College Leaving Certificate, or Conduct Certificate?",
+  "output": "School Compliance Cell (compliance.cse@kiit.ac.in)"
+
+
+ "Who is responsible for academic or hostel fee payment extensions?",
+  "output": "School Compliance Cell (compliance.cse@kiit.ac.in)"
+
+
+ "Who addresses queries related to Open Electives or Department Electives?",
+  "output": "School Compliance Cell (compliance.cse@kiit.ac.in)"
+
+
+ "Who handles Rank Certificate or No Backlog Certificate requests?",
+  "output": "School Compliance Cell (compliance.cse@kiit.ac.in)"
+
+
+ "Who should be contacted for a field signature on application forms like GATE or CAT?",
+  "output": "School Compliance Cell (compliance.cse@kiit.ac.in)"
+
+
+ "Who manages discrepancies in marks, grades, or answer sheets for B.Tech 2020 & 2019 admitted batches, M.Tech, and Ph.D. students?",
+  "output": "Assistant CoE (accoe.cse@kiit.ac.in)"
+
+
+ "Who manages discrepancies in marks, grades, or answer sheets for B.Tech 2018 & 2017 admitted batches?",
+  "output": "Assistant CoE (accoe.cse@kiit.ac.in)"
+
+
+ "Who should be contacted for correction of name, DOB, and change of address?",
+  "output": "Admission (swapna.mohanty@kiit.ac.in)"
+
+
+ "Who handles issues related to scholarships?",
+  "output": "Admission (swapna.mohanty@kiit.ac.in)"
+
+
+ "Who should be contacted for laptop-related issues (delivery or technical faults)?",
+  "output": "ICT Cell (laptop.service@kiit.ac.in)"
+
+
+ "Who should be contacted for general IT issues?",
+  "output": "Helpdesk (helpdesk@kiit.ac.in)"
+
+
+ "Who manages requests for inclusion in a school email group ID?",
+  "output": "Helpdesk (helpdesk@kiit.ac.in)"
+
+
+ "Who handles library books and library access issues?",
+  "output": "School Library (beda_sahoo@kiit.ac.in, bijaylaxmi@kiit.ac.in)"
+
+
+ "Who manages fee discrepancies and SAP reflection issues?",
+  "output": "Accounts Section (manoj_meher@kiit.ac.in)"
+
+
+ "Who is responsible for hostel-related issues?",
+  "output": "Hostel (hostel@kiit.ac.in)"
+
+
+ "Who should be contacted for a Bonafide Certificate for internship and training placement queries?",
+  "output": "School T&P Cell (tnp.cse@kiit.ac.in)"
+
+
+ "Who handles recreational facility access issues?",
+  "output": "Sports (sports.kiit@gmail.com)"
+
+
+ "Who should be contacted for student counseling?",
+  "output": "Student Counseling (sucheta@kiit.ac.in)"
+
+
+ "Who manages student activity-related concerns?",
+  "output": "KSAC (shyam_behura@kiit.ac.in)"
+
+
+ "Who should be contacted if unable to download the student grade sheet?",
+  "output": "SICM (sicm.kiit@kiit.ac.in)"
+
+
+ "Who manages university guest house bookings?",
+  "output": "University Guest House (kiitguesthouse@kiit.ac.in)"

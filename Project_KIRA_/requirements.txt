@@ -1,0 +1,13 @@
+flask
+flask-pymongo
+flask-bcrypt
+flask-cors
+flask-mail
+python-dotenv
+flask-wtf
+flask-limiter
+requests
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
